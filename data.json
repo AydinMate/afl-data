@@ -1,9 +1,10 @@
 [
     {
+        "ID": "Macrae_197601",
         "Player": "J. Macrae",
         "Team": "Western Bulldogs",
         "Games": "26",
-        "Minutes": "2,636",
+        "Minutes": "2636",
         "Points": "40",
         "Goals": "6",
         "Behinds": "4",
@@ -20,10 +21,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Oliver_283457",
         "Player": "C. Oliver",
         "Team": "Melbourne",
         "Games": "25",
-        "Minutes": "2,706",
+        "Minutes": "2706",
         "Points": "84",
         "Goals": "11",
         "Behinds": "18",
@@ -40,10 +42,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Wines_381500",
         "Player": "O. Wines",
         "Team": "Port Adelaide",
         "Games": "24",
-        "Minutes": "2,248",
+        "Minutes": "2248",
         "Points": "75",
         "Goals": "10",
         "Behinds": "15",
@@ -60,10 +63,11 @@
         "50m Penalties": "3"
     },
     {
+        "ID": "Mitchell_241857",
         "Player": "T. Mitchell",
         "Team": "Hawthorn",
         "Games": "22",
-        "Minutes": "2,212",
+        "Minutes": "2212",
         "Points": "53",
         "Goals": "8",
         "Behinds": "5",
@@ -80,10 +84,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Petracca_973840",
         "Player": "C. Petracca",
         "Team": "Melbourne",
         "Games": "25",
-        "Minutes": "2,741",
+        "Minutes": "2741",
         "Points": "193",
         "Goals": "29",
         "Behinds": "19",
@@ -100,10 +105,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Merrett_498752",
         "Player": "Z. Merrett",
         "Team": "Essendon",
         "Games": "23",
-        "Minutes": "2,275",
+        "Minutes": "2275",
         "Points": "31",
         "Goals": "4",
         "Behinds": "7",
@@ -120,10 +126,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Laird_563426",
         "Player": "R. Laird",
         "Team": "Adelaide",
         "Games": "22",
-        "Minutes": "2,104",
+        "Minutes": "2104",
         "Points": "26",
         "Goals": "3",
         "Behinds": "8",
@@ -140,10 +147,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Parish_427589",
         "Player": "D. Parish",
         "Team": "Essendon",
         "Games": "23",
-        "Minutes": "2,275",
+        "Minutes": "2275",
         "Points": "68",
         "Goals": "10",
         "Behinds": "8",
@@ -160,10 +168,11 @@
         "50m Penalties": "4"
     },
     {
+        "ID": "Bontempelli_787855",
         "Player": "M. Bontempelli",
         "Team": "Western Bulldogs",
         "Games": "26",
-        "Minutes": "2,685",
+        "Minutes": "2685",
         "Points": "205",
         "Goals": "31",
         "Behinds": "19",
@@ -180,10 +189,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Lyons_635335",
         "Player": "J. Lyons",
         "Team": "Brisbane Lions",
         "Games": "24",
-        "Minutes": "2,411",
+        "Minutes": "2411",
         "Points": "67",
         "Goals": "10",
         "Behinds": "7",
@@ -200,10 +210,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Miller_838252",
         "Player": "T. Miller",
         "Team": "Gold Coast",
         "Games": "21",
-        "Minutes": "2,139",
+        "Minutes": "2139",
         "Points": "56",
         "Goals": "8",
         "Behinds": "8",
@@ -220,10 +231,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Guthrie_605727",
         "Player": "C. Guthrie",
         "Team": "Geelong",
         "Games": "23",
-        "Minutes": "2,046",
+        "Minutes": "2046",
         "Points": "32",
         "Goals": "4",
         "Behinds": "8",
@@ -240,10 +252,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Walsh_929965",
         "Player": "S. Walsh",
         "Team": "Carlton",
         "Games": "22",
-        "Minutes": "2,369",
+        "Minutes": "2369",
         "Points": "78",
         "Goals": "12",
         "Behinds": "6",
@@ -260,10 +273,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Parker_276315",
         "Player": "L. Parker",
         "Team": "Sydney Swans",
         "Games": "23",
-        "Minutes": "2,248",
+        "Minutes": "2248",
         "Points": "98",
         "Goals": "15",
         "Behinds": "8",
@@ -280,10 +294,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Boak_438788",
         "Player": "T. Boak",
         "Team": "Port Adelaide",
         "Games": "23",
-        "Minutes": "2,260",
+        "Minutes": "2260",
         "Points": "66",
         "Goals": "8",
         "Behinds": "18",
@@ -300,10 +315,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Steele_734723",
         "Player": "J. Steele",
         "Team": "St Kilda",
         "Games": "22",
-        "Minutes": "2,261",
+        "Minutes": "2261",
         "Points": "86",
         "Goals": "13",
         "Behinds": "8",
@@ -320,10 +336,11 @@
         "50m Penalties": "3"
     },
     {
+        "ID": "Taranto_489018",
         "Player": "T. Taranto",
         "Team": "GWS Giants",
         "Games": "24",
-        "Minutes": "2,421",
+        "Minutes": "2421",
         "Points": "91",
         "Goals": "13",
         "Behinds": "13",
@@ -340,10 +357,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Daniel_659054",
         "Player": "C. Daniel",
         "Team": "Western Bulldogs",
         "Games": "25",
-        "Minutes": "2,468",
+        "Minutes": "2468",
         "Points": "43",
         "Goals": "7",
         "Behinds": "1",
@@ -360,10 +378,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Rich_478642",
         "Player": "D. Rich",
         "Team": "Brisbane Lions",
         "Games": "24",
-        "Minutes": "2,492",
+        "Minutes": "2492",
         "Points": "28",
         "Goals": "3",
         "Behinds": "10",
@@ -380,10 +399,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Dale_955814",
         "Player": "B. Dale",
         "Team": "Western Bulldogs",
         "Games": "26",
-        "Minutes": "2,613",
+        "Minutes": "2613",
         "Points": "54",
         "Goals": "9",
         "Behinds": "0",
@@ -400,10 +420,11 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "Keays_771584",
         "Player": "B. Keays",
         "Team": "Adelaide",
         "Games": "22",
-        "Minutes": "2,274",
+        "Minutes": "2274",
         "Points": "80",
         "Goals": "12",
         "Behinds": "8",
@@ -420,10 +441,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Lloyd_385603",
         "Player": "J. Lloyd",
         "Team": "Sydney Swans",
         "Games": "22",
-        "Minutes": "2,282",
+        "Minutes": "2282",
         "Points": "7",
         "Goals": "1",
         "Behinds": "1",
@@ -440,10 +462,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Smith_363105",
         "Player": "B. Smith",
         "Team": "Western Bulldogs",
         "Games": "26",
-        "Minutes": "2,610",
+        "Minutes": "2610",
         "Points": "115",
         "Goals": "17",
         "Behinds": "13",
@@ -460,10 +483,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Salem_643175",
         "Player": "C. Salem",
         "Team": "Melbourne",
         "Games": "24",
-        "Minutes": "2,537",
+        "Minutes": "2537",
         "Points": "20",
         "Goals": "3",
         "Behinds": "2",
@@ -480,10 +504,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Hopper_490312",
         "Player": "J. Hopper",
         "Team": "GWS Giants",
         "Games": "23",
-        "Minutes": "2,257",
+        "Minutes": "2257",
         "Points": "67",
         "Goals": "10",
         "Behinds": "7",
@@ -500,10 +525,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Kelly_259109",
         "Player": "J. Kelly",
         "Team": "GWS Giants",
         "Games": "23",
-        "Minutes": "2,344",
+        "Minutes": "2344",
         "Points": "111",
         "Goals": "16",
         "Behinds": "15",
@@ -520,10 +546,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "McCluggage_853028",
         "Player": "H. McCluggage",
         "Team": "Brisbane Lions",
         "Games": "24",
-        "Minutes": "2,486",
+        "Minutes": "2486",
         "Points": "112",
         "Goals": "15",
         "Behinds": "22",
@@ -540,10 +567,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Liberatore_996854",
         "Player": "T. Liberatore",
         "Team": "Western Bulldogs",
         "Games": "25",
-        "Minutes": "2,402",
+        "Minutes": "2402",
         "Points": "96",
         "Goals": "14",
         "Behinds": "12",
@@ -560,10 +588,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Crisp_792765",
         "Player": "J. Crisp",
         "Team": "Collingwood",
         "Games": "22",
-        "Minutes": "2,293",
+        "Minutes": "2293",
         "Points": "17",
         "Goals": "2",
         "Behinds": "5",
@@ -580,10 +609,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Simpkin_921941",
         "Player": "J. Simpkin",
         "Team": "Nth Melbourne",
         "Games": "22",
-        "Minutes": "2,181",
+        "Minutes": "2181",
         "Points": "17",
         "Goals": "2",
         "Behinds": "5",
@@ -600,10 +630,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Gaff_677112",
         "Player": "A. Gaff",
         "Team": "West Coast",
         "Games": "21",
-        "Minutes": "2,275",
+        "Minutes": "2275",
         "Points": "19",
         "Goals": "3",
         "Behinds": "1",
@@ -620,10 +651,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Sheed_667955",
         "Player": "D. Sheed",
         "Team": "West Coast",
         "Games": "22",
-        "Minutes": "2,250",
+        "Minutes": "2250",
         "Points": "60",
         "Goals": "9",
         "Behinds": "6",
@@ -640,10 +672,11 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "Seedsman_725245",
         "Player": "P. Seedsman",
         "Team": "Adelaide",
         "Games": "22",
-        "Minutes": "2,206",
+        "Minutes": "2206",
         "Points": "85",
         "Goals": "12",
         "Behinds": "13",
@@ -660,10 +693,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Brayshaw_563625",
         "Player": "A. Brayshaw",
         "Team": "Fremantle",
         "Games": "20",
-        "Minutes": "1,881",
+        "Minutes": "1881",
         "Points": "53",
         "Goals": "8",
         "Behinds": "5",
@@ -680,10 +714,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Amon_226110",
         "Player": "K. Amon",
         "Team": "Port Adelaide",
         "Games": "24",
-        "Minutes": "2,382",
+        "Minutes": "2382",
         "Points": "83",
         "Goals": "11",
         "Behinds": "17",
@@ -700,10 +735,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Hall_420141",
         "Player": "A. Hall",
         "Team": "Nth Melbourne",
         "Games": "20",
-        "Minutes": "1,853",
+        "Minutes": "1853",
         "Points": "18",
         "Goals": "2",
         "Behinds": "6",
@@ -720,10 +756,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Zorko_479721",
         "Player": "D. Zorko",
         "Team": "Brisbane Lions",
         "Games": "23",
-        "Minutes": "2,380",
+        "Minutes": "2380",
         "Points": "120",
         "Goals": "17",
         "Behinds": "18",
@@ -740,10 +777,11 @@
         "50m Penalties": "3"
     },
     {
+        "ID": "Mundy_731937",
         "Player": "D. Mundy",
         "Team": "Fremantle",
         "Games": "22",
-        "Minutes": "2,009",
+        "Minutes": "2009",
         "Points": "97",
         "Goals": "15",
         "Behinds": "7",
@@ -760,10 +798,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Selwood_758110",
         "Player": "J. Selwood",
         "Team": "Geelong",
         "Games": "24",
-        "Minutes": "2,179",
+        "Minutes": "2179",
         "Points": "40",
         "Goals": "6",
         "Behinds": "4",
@@ -780,10 +819,11 @@
         "50m Penalties": "3"
     },
     {
+        "ID": "Smith_407473",
         "Player": "I. Smith",
         "Team": "Geelong",
         "Games": "24",
-        "Minutes": "2,439",
+        "Minutes": "2439",
         "Points": "99",
         "Goals": "15",
         "Behinds": "9",
@@ -800,10 +840,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Hunter_727503",
         "Player": "L. Hunter",
         "Team": "Western Bulldogs",
         "Games": "25",
-        "Minutes": "2,577",
+        "Minutes": "2577",
         "Points": "67",
         "Goals": "10",
         "Behinds": "7",
@@ -820,10 +861,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Ward_443263",
         "Player": "C. Ward",
         "Team": "GWS Giants",
         "Games": "24",
-        "Minutes": "2,330",
+        "Minutes": "2330",
         "Points": "95",
         "Goals": "15",
         "Behinds": "5",
@@ -840,10 +882,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Short_649589",
         "Player": "J. Short",
         "Team": "Richmond",
         "Games": "22",
-        "Minutes": "2,251",
+        "Minutes": "2251",
         "Points": "8",
         "Goals": "1",
         "Behinds": "2",
@@ -860,10 +903,11 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "Menegola_393612",
         "Player": "S. Menegola",
         "Team": "Geelong",
         "Games": "23",
-        "Minutes": "2,270",
+        "Minutes": "2270",
         "Points": "84",
         "Goals": "12",
         "Behinds": "12",
@@ -880,10 +924,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Ziebell_844721",
         "Player": "J. Ziebell",
         "Team": "Nth Melbourne",
         "Games": "21",
-        "Minutes": "2,126",
+        "Minutes": "2126",
         "Points": "12",
         "Goals": "2",
         "Behinds": "0",
@@ -900,10 +945,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Crouch_502876",
         "Player": "B. Crouch",
         "Team": "St Kilda",
         "Games": "20",
-        "Minutes": "1,870",
+        "Minutes": "1870",
         "Points": "47",
         "Goals": "7",
         "Behinds": "5",
@@ -920,10 +966,11 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "Langdon_678982",
         "Player": "E. Langdon",
         "Team": "Melbourne",
         "Games": "24",
-        "Minutes": "2,776",
+        "Minutes": "2776",
         "Points": "87",
         "Goals": "13",
         "Behinds": "9",
@@ -940,10 +987,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Cumming_554211",
         "Player": "I. Cumming",
         "Team": "GWS Giants",
         "Games": "24",
-        "Minutes": "2,359",
+        "Minutes": "2359",
         "Points": "10",
         "Goals": "1",
         "Behinds": "4",
@@ -960,10 +1008,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Dawson_463290",
         "Player": "J. Dawson",
         "Team": "Sydney Swans",
         "Games": "23",
-        "Minutes": "2,378",
+        "Minutes": "2378",
         "Points": "61",
         "Goals": "9",
         "Behinds": "7",
@@ -980,10 +1029,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Kennedy_690049",
         "Player": "J. Kennedy",
         "Team": "Sydney Swans",
         "Games": "21",
-        "Minutes": "1,898",
+        "Minutes": "1898",
         "Points": "30",
         "Goals": "4",
         "Behinds": "6",
@@ -1000,10 +1050,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Serong_313881",
         "Player": "C. Serong",
         "Team": "Fremantle",
         "Games": "22",
-        "Minutes": "1,960",
+        "Minutes": "1960",
         "Points": "58",
         "Goals": "8",
         "Behinds": "10",
@@ -1020,10 +1071,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Sidebottom_405872",
         "Player": "S. Sidebottom",
         "Team": "Collingwood",
         "Games": "21",
-        "Minutes": "2,069",
+        "Minutes": "2069",
         "Points": "53",
         "Goals": "8",
         "Behinds": "5",
@@ -1040,10 +1092,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Curnow_247880",
         "Player": "E. Curnow",
         "Team": "Carlton",
         "Games": "22",
-        "Minutes": "2,255",
+        "Minutes": "2255",
         "Points": "63",
         "Goals": "10",
         "Behinds": "3",
@@ -1060,10 +1113,11 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "Mills_864116",
         "Player": "C. Mills",
         "Team": "Sydney Swans",
         "Games": "18",
-        "Minutes": "1,794",
+        "Minutes": "1794",
         "Points": "37",
         "Goals": "6",
         "Behinds": "1",
@@ -1080,10 +1134,11 @@
         "50m Penalties": "3"
     },
     {
+        "ID": "Hind_195131",
         "Player": "N. Hind",
         "Team": "Essendon",
         "Games": "22",
-        "Minutes": "2,209",
+        "Minutes": "2209",
         "Points": "26",
         "Goals": "4",
         "Behinds": "2",
@@ -1100,10 +1155,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Houston_578140",
         "Player": "D. Houston",
         "Team": "Port Adelaide",
         "Games": "23",
-        "Minutes": "2,117",
+        "Minutes": "2117",
         "Points": "48",
         "Goals": "7",
         "Behinds": "6",
@@ -1120,10 +1176,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Tuohy_464966",
         "Player": "Z. Tuohy",
         "Team": "Geelong",
         "Games": "21",
-        "Minutes": "2,099",
+        "Minutes": "2099",
         "Points": "74",
         "Goals": "11",
         "Behinds": "8",
@@ -1140,10 +1197,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Byrne-Jones_260682",
         "Player": "D. Byrne-Jones",
         "Team": "Port Adelaide",
         "Games": "24",
-        "Minutes": "2,335",
+        "Minutes": "2335",
         "Points": "2",
         "Goals": "0",
         "Behinds": "2",
@@ -1160,10 +1218,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Stewart_962022",
         "Player": "T. Stewart",
         "Team": "Geelong",
         "Games": "20",
-        "Minutes": "2,066",
+        "Minutes": "2066",
         "Points": "3",
         "Goals": "0",
         "Behinds": "3",
@@ -1180,10 +1239,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "O'Meara_127406",
         "Player": "J. O'Meara",
         "Team": "Hawthorn",
         "Games": "18",
-        "Minutes": "1,781",
+        "Minutes": "1781",
         "Points": "39",
         "Goals": "5",
         "Behinds": "9",
@@ -1200,10 +1260,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Heppell_729261",
         "Player": "D. Heppell",
         "Team": "Essendon",
         "Games": "19",
-        "Minutes": "1,964",
+        "Minutes": "1964",
         "Points": "13",
         "Goals": "2",
         "Behinds": "1",
@@ -1220,10 +1281,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Cripps_167454",
         "Player": "P. Cripps",
         "Team": "Carlton",
         "Games": "20",
-        "Minutes": "2,067",
+        "Minutes": "2067",
         "Points": "89",
         "Goals": "13",
         "Behinds": "11",
@@ -1240,10 +1302,11 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "Ridley_293051",
         "Player": "J. Ridley",
         "Team": "Essendon",
         "Games": "22",
-        "Minutes": "2,422",
+        "Minutes": "2422",
         "Points": "0",
         "Goals": "0",
         "Behinds": "0",
@@ -1260,10 +1323,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Gawn_371456",
         "Player": "M. Gawn",
         "Team": "Melbourne",
         "Games": "25",
-        "Minutes": "2,728",
+        "Minutes": "2728",
         "Points": "113",
         "Goals": "16",
         "Behinds": "17",
@@ -1280,10 +1344,11 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "Maynard_895120",
         "Player": "B. Maynard",
         "Team": "Collingwood",
         "Games": "22",
-        "Minutes": "2,239",
+        "Minutes": "2239",
         "Points": "6",
         "Goals": "1",
         "Behinds": "0",
@@ -1300,10 +1365,11 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "Brayshaw_939318",
         "Player": "A. Brayshaw",
         "Team": "Melbourne",
         "Games": "25",
-        "Minutes": "2,517",
+        "Minutes": "2517",
         "Points": "25",
         "Goals": "3",
         "Behinds": "7",
@@ -1320,10 +1386,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Neale_596582",
         "Player": "L. Neale",
         "Team": "Brisbane Lions",
         "Games": "17",
-        "Minutes": "1,802",
+        "Minutes": "1802",
         "Points": "54",
         "Goals": "8",
         "Behinds": "6",
@@ -1340,10 +1407,11 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "Swallow_192110",
         "Player": "D. Swallow",
         "Team": "Gold Coast",
         "Games": "21",
-        "Minutes": "1,945",
+        "Minutes": "1945",
         "Points": "43",
         "Goals": "6",
         "Behinds": "7",
@@ -1360,10 +1428,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Kelly_401897",
         "Player": "T. Kelly",
         "Team": "West Coast",
         "Games": "19",
-        "Minutes": "1,814",
+        "Minutes": "1814",
         "Points": "44",
         "Goals": "6",
         "Behinds": "8",
@@ -1380,10 +1449,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Anderson_757092",
         "Player": "N. Anderson",
         "Team": "Gold Coast",
         "Games": "20",
-        "Minutes": "1,825",
+        "Minutes": "1825",
         "Points": "6",
         "Goals": "0",
         "Behinds": "6",
@@ -1400,10 +1470,11 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "Baker_904675",
         "Player": "L. Baker",
         "Team": "Richmond",
         "Games": "22",
-        "Minutes": "2,177",
+        "Minutes": "2177",
         "Points": "50",
         "Goals": "7",
         "Behinds": "8",
@@ -1420,10 +1491,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Shiels_519252",
         "Player": "L. Shiels",
         "Team": "Hawthorn",
         "Games": "21",
-        "Minutes": "1,997",
+        "Minutes": "1997",
         "Points": "34",
         "Goals": "5",
         "Behinds": "4",
@@ -1440,10 +1512,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Sinclair_990935",
         "Player": "J. Sinclair",
         "Team": "St Kilda",
         "Games": "21",
-        "Minutes": "2,074",
+        "Minutes": "2074",
         "Points": "20",
         "Goals": "3",
         "Behinds": "2",
@@ -1460,10 +1533,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Redden_493746",
         "Player": "J. Redden",
         "Team": "West Coast",
         "Games": "18",
-        "Minutes": "1,832",
+        "Minutes": "1832",
         "Points": "19",
         "Goals": "3",
         "Behinds": "1",
@@ -1480,10 +1554,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Lukosius_608508",
         "Player": "J. Lukosius",
         "Team": "Gold Coast",
         "Games": "22",
-        "Minutes": "2,243",
+        "Minutes": "2243",
         "Points": "29",
         "Goals": "3",
         "Behinds": "11",
@@ -1500,10 +1575,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Bailey_491280",
         "Player": "Z. Bailey",
         "Team": "Brisbane Lions",
         "Games": "24",
-        "Minutes": "2,446",
+        "Minutes": "2446",
         "Points": "204",
         "Goals": "31",
         "Behinds": "18",
@@ -1520,10 +1596,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Davies-Uniacke_363201",
         "Player": "L. Davies-Uniacke",
         "Team": "Nth Melbourne",
         "Games": "20",
-        "Minutes": "1,971",
+        "Minutes": "1971",
         "Points": "48",
         "Goals": "6",
         "Behinds": "12",
@@ -1540,10 +1617,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Duryea_226119",
         "Player": "T. Duryea",
         "Team": "Western Bulldogs",
         "Games": "25",
-        "Minutes": "2,444",
+        "Minutes": "2444",
         "Points": "6",
         "Goals": "1",
         "Behinds": "0",
@@ -1560,10 +1638,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Florent_852956",
         "Player": "O. Florent",
         "Team": "Sydney Swans",
         "Games": "23",
-        "Minutes": "2,259",
+        "Minutes": "2259",
         "Points": "60",
         "Goals": "9",
         "Behinds": "6",
@@ -1580,10 +1659,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Hill_908478",
         "Player": "B. Hill",
         "Team": "St Kilda",
         "Games": "22",
-        "Minutes": "2,251",
+        "Minutes": "2251",
         "Points": "19",
         "Goals": "3",
         "Behinds": "1",
@@ -1600,10 +1680,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Smith_734091",
         "Player": "B. Smith",
         "Team": "Adelaide",
         "Games": "21",
-        "Minutes": "2,080",
+        "Minutes": "2080",
         "Points": "16",
         "Goals": "2",
         "Behinds": "4",
@@ -1620,10 +1701,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Burton_959588",
         "Player": "R. Burton",
         "Team": "Port Adelaide",
         "Games": "24",
-        "Minutes": "2,224",
+        "Minutes": "2224",
         "Points": "1",
         "Goals": "0",
         "Behinds": "1",
@@ -1640,10 +1722,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Parfitt_766826",
         "Player": "B. Parfitt",
         "Team": "Geelong",
         "Games": "23",
-        "Minutes": "2,036",
+        "Minutes": "2036",
         "Points": "55",
         "Goals": "8",
         "Behinds": "7",
@@ -1660,10 +1743,11 @@
         "50m Penalties": "3"
     },
     {
+        "ID": "Robinson_121686",
         "Player": "M. Robinson",
         "Team": "Brisbane Lions",
         "Games": "22",
-        "Minutes": "2,127",
+        "Minutes": "2127",
         "Points": "49",
         "Goals": "7",
         "Behinds": "7",
@@ -1680,10 +1764,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Worpel_606062",
         "Player": "J. Worpel",
         "Team": "Hawthorn",
         "Games": "20",
-        "Minutes": "1,872",
+        "Minutes": "1872",
         "Points": "68",
         "Goals": "10",
         "Behinds": "8",
@@ -1700,10 +1785,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Birchall_310194",
         "Player": "G. Birchall",
         "Team": "Brisbane Lions",
         "Games": "23",
-        "Minutes": "2,295",
+        "Minutes": "2295",
         "Points": "12",
         "Goals": "2",
         "Behinds": "0",
@@ -1720,10 +1806,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Whitfield_448302",
         "Player": "L. Whitfield",
         "Team": "GWS Giants",
         "Games": "17",
-        "Minutes": "1,698",
+        "Minutes": "1698",
         "Points": "19",
         "Goals": "3",
         "Behinds": "1",
@@ -1740,10 +1827,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Drew_477799",
         "Player": "W. Drew",
         "Team": "Port Adelaide",
         "Games": "24",
-        "Minutes": "2,066",
+        "Minutes": "2066",
         "Points": "28",
         "Goals": "4",
         "Behinds": "4",
@@ -1760,10 +1848,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Saad_677970",
         "Player": "A. Saad",
         "Team": "Carlton",
         "Games": "22",
-        "Minutes": "2,187",
+        "Minutes": "2187",
         "Points": "18",
         "Goals": "2",
         "Behinds": "6",
@@ -1780,10 +1869,11 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "Ellis_669570",
         "Player": "B. Ellis",
         "Team": "Gold Coast",
         "Games": "18",
-        "Minutes": "1,788",
+        "Minutes": "1788",
         "Points": "32",
         "Goals": "5",
         "Behinds": "2",
@@ -1800,10 +1890,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "de_713253",
         "Player": "J. de Goey",
         "Team": "Collingwood",
         "Games": "20",
-        "Minutes": "1,957",
+        "Minutes": "1957",
         "Points": "161",
         "Goals": "23",
         "Behinds": "23",
@@ -1820,10 +1911,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Ross_720653",
         "Player": "S. Ross",
         "Team": "St Kilda",
         "Games": "20",
-        "Minutes": "2,027",
+        "Minutes": "2027",
         "Points": "38",
         "Goals": "5",
         "Behinds": "8",
@@ -1840,10 +1932,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Graham_189103",
         "Player": "J. Graham",
         "Team": "Richmond",
         "Games": "22",
-        "Minutes": "2,111",
+        "Minutes": "2111",
         "Points": "73",
         "Goals": "11",
         "Behinds": "7",
@@ -1860,10 +1953,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Hardwick_100721",
         "Player": "B. Hardwick",
         "Team": "Hawthorn",
         "Games": "20",
-        "Minutes": "2,037",
+        "Minutes": "2037",
         "Points": "2",
         "Goals": "0",
         "Behinds": "2",
@@ -1880,10 +1974,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Pendlebury_142583",
         "Player": "S. Pendlebury",
         "Team": "Collingwood",
         "Games": "18",
-        "Minutes": "1,660",
+        "Minutes": "1660",
         "Points": "28",
         "Goals": "4",
         "Behinds": "4",
@@ -1900,10 +1995,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Cerra_447001",
         "Player": "A. Cerra",
         "Team": "Fremantle",
         "Games": "18",
-        "Minutes": "1,635",
+        "Minutes": "1635",
         "Points": "40",
         "Goals": "5",
         "Behinds": "10",
@@ -1920,10 +2016,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Aish_136078",
         "Player": "J. Aish",
         "Team": "Fremantle",
         "Games": "22",
-        "Minutes": "2,188",
+        "Minutes": "2188",
         "Points": "14",
         "Goals": "1",
         "Behinds": "8",
@@ -1940,10 +2037,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Ryan_941324",
         "Player": "L. Ryan",
         "Team": "Fremantle",
         "Games": "19",
-        "Minutes": "2,015",
+        "Minutes": "2015",
         "Points": "0",
         "Goals": "0",
         "Behinds": "0",
@@ -1960,10 +2058,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Scrimshaw_161227",
         "Player": "J. Scrimshaw",
         "Team": "Hawthorn",
         "Games": "20",
-        "Minutes": "1,799",
+        "Minutes": "1799",
         "Points": "26",
         "Goals": "4",
         "Behinds": "2",
@@ -1980,10 +2079,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Noble_926210",
         "Player": "J. Noble",
         "Team": "Collingwood",
         "Games": "22",
-        "Minutes": "2,016",
+        "Minutes": "2016",
         "Points": "12",
         "Goals": "2",
         "Behinds": "0",
@@ -2000,10 +2100,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Neal-Bullen_678302",
         "Player": "A. Neal-Bullen",
         "Team": "Melbourne",
         "Games": "25",
-        "Minutes": "2,312",
+        "Minutes": "2312",
         "Points": "101",
         "Goals": "15",
         "Behinds": "11",
@@ -2020,10 +2121,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Phillips_627476",
         "Player": "T. Phillips",
         "Team": "Hawthorn",
         "Games": "22",
-        "Minutes": "2,129",
+        "Minutes": "2129",
         "Points": "83",
         "Goals": "13",
         "Behinds": "5",
@@ -2040,10 +2142,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Schoenberg_576179",
         "Player": "H. Schoenberg",
         "Team": "Adelaide",
         "Games": "22",
-        "Minutes": "1,949",
+        "Minutes": "1949",
         "Points": "69",
         "Goals": "10",
         "Behinds": "9",
@@ -2060,10 +2163,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Bowes_500971",
         "Player": "J. Bowes",
         "Team": "Gold Coast",
         "Games": "19",
-        "Minutes": "1,814",
+        "Minutes": "1814",
         "Points": "8",
         "Goals": "1",
         "Behinds": "2",
@@ -2080,10 +2184,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Mayne_676587",
         "Player": "C. Mayne",
         "Team": "Collingwood",
         "Games": "17",
-        "Minutes": "1,658",
+        "Minutes": "1658",
         "Points": "0",
         "Goals": "0",
         "Behinds": "0",
@@ -2100,10 +2205,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Cunnington_804411",
         "Player": "B. Cunnington",
         "Team": "Nth Melbourne",
         "Games": "15",
-        "Minutes": "1,487",
+        "Minutes": "1487",
         "Points": "62",
         "Goals": "9",
         "Behinds": "8",
@@ -2120,10 +2226,11 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "Sloane_902061",
         "Player": "R. Sloane",
         "Team": "Adelaide",
         "Games": "18",
-        "Minutes": "1,803",
+        "Minutes": "1803",
         "Points": "20",
         "Goals": "3",
         "Behinds": "2",
@@ -2140,10 +2247,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "May_908166",
         "Player": "S. May",
         "Team": "Melbourne",
         "Games": "23",
-        "Minutes": "2,627",
+        "Minutes": "2627",
         "Points": "2",
         "Goals": "0",
         "Behinds": "2",
@@ -2160,10 +2268,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Perryman_271174",
         "Player": "H. Perryman",
         "Team": "GWS Giants",
         "Games": "18",
-        "Minutes": "1,755",
+        "Minutes": "1755",
         "Points": "29",
         "Goals": "4",
         "Behinds": "5",
@@ -2180,10 +2289,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Treloar_887276",
         "Player": "A. Treloar",
         "Team": "Western Bulldogs",
         "Games": "17",
-        "Minutes": "1,570",
+        "Minutes": "1570",
         "Points": "87",
         "Goals": "13",
         "Behinds": "9",
@@ -2200,10 +2310,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Bolton_581603",
         "Player": "S. Bolton",
         "Team": "Richmond",
         "Games": "20",
-        "Minutes": "1,921",
+        "Minutes": "1921",
         "Points": "158",
         "Goals": "23",
         "Behinds": "20",
@@ -2220,10 +2331,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Ash_491008",
         "Player": "L. Ash",
         "Team": "GWS Giants",
         "Games": "23",
-        "Minutes": "2,132",
+        "Minutes": "2132",
         "Points": "7",
         "Goals": "1",
         "Behinds": "1",
@@ -2240,10 +2352,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Powell_637663",
         "Player": "W. Powell",
         "Team": "Gold Coast",
         "Games": "22",
-        "Minutes": "2,238",
+        "Minutes": "2238",
         "Points": "7",
         "Goals": "1",
         "Behinds": "1",
@@ -2260,10 +2373,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Lever_177179",
         "Player": "J. Lever",
         "Team": "Melbourne",
         "Games": "25",
-        "Minutes": "3,028",
+        "Minutes": "3028",
         "Points": "1",
         "Goals": "0",
         "Behinds": "1",
@@ -2280,10 +2394,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Redman_989754",
         "Player": "M. Redman",
         "Team": "Essendon",
         "Games": "22",
-        "Minutes": "2,093",
+        "Minutes": "2093",
         "Points": "38",
         "Goals": "6",
         "Behinds": "2",
@@ -2300,10 +2415,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Adams_680828",
         "Player": "T. Adams",
         "Team": "Collingwood",
         "Games": "14",
-        "Minutes": "1,253",
+        "Minutes": "1253",
         "Points": "14",
         "Goals": "2",
         "Behinds": "2",
@@ -2320,10 +2436,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Grundy_641752",
         "Player": "B. Grundy",
         "Team": "Collingwood",
         "Games": "20",
-        "Minutes": "1,909",
+        "Minutes": "1909",
         "Points": "78",
         "Goals": "12",
         "Behinds": "6",
@@ -2340,10 +2457,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Thomas_299654",
         "Player": "T. Thomas",
         "Team": "Nth Melbourne",
         "Games": "21",
-        "Minutes": "1,917",
+        "Minutes": "1917",
         "Points": "161",
         "Goals": "24",
         "Behinds": "17",
@@ -2360,10 +2478,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Williams_732888",
         "Player": "B. Williams",
         "Team": "Western Bulldogs",
         "Games": "23",
-        "Minutes": "2,309",
+        "Minutes": "2309",
         "Points": "8",
         "Goals": "1",
         "Behinds": "2",
@@ -2380,10 +2499,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "McInerney_263610",
         "Player": "J. McInerney",
         "Team": "Sydney Swans",
         "Games": "21",
-        "Minutes": "2,020",
+        "Minutes": "2020",
         "Points": "44",
         "Goals": "7",
         "Behinds": "2",
@@ -2400,10 +2520,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Rivers_554511",
         "Player": "T. Rivers",
         "Team": "Melbourne",
         "Games": "25",
-        "Minutes": "2,134",
+        "Minutes": "2134",
         "Points": "7",
         "Goals": "1",
         "Behinds": "1",
@@ -2420,10 +2541,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Atkins_352969",
         "Player": "T. Atkins",
         "Team": "Geelong",
         "Games": "22",
-        "Minutes": "2,223",
+        "Minutes": "2223",
         "Points": "1",
         "Goals": "0",
         "Behinds": "1",
@@ -2440,10 +2562,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Hewett_124086",
         "Player": "G. Hewett",
         "Team": "Sydney Swans",
         "Games": "21",
-        "Minutes": "2,002",
+        "Minutes": "2002",
         "Points": "0",
         "Goals": "0",
         "Behinds": "0",
@@ -2460,10 +2583,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Harmes_443934",
         "Player": "J. Harmes",
         "Team": "Melbourne",
         "Games": "18",
-        "Minutes": "1,672",
+        "Minutes": "1672",
         "Points": "52",
         "Goals": "7",
         "Behinds": "10",
@@ -2480,10 +2604,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Haynes_987262",
         "Player": "N. Haynes",
         "Team": "GWS Giants",
         "Games": "21",
-        "Minutes": "2,121",
+        "Minutes": "2121",
         "Points": "7",
         "Goals": "1",
         "Behinds": "1",
@@ -2500,10 +2625,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Howe_283487",
         "Player": "D. Howe",
         "Team": "Hawthorn",
         "Games": "20",
-        "Minutes": "1,794",
+        "Minutes": "1794",
         "Points": "53",
         "Goals": "8",
         "Behinds": "5",
@@ -2520,10 +2646,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Dangerfield_590308",
         "Player": "P. Dangerfield",
         "Team": "Geelong",
         "Games": "16",
-        "Minutes": "1,407",
+        "Minutes": "1407",
         "Points": "55",
         "Goals": "8",
         "Behinds": "7",
@@ -2540,10 +2667,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Aliir_688794",
         "Player": "A. Aliir",
         "Team": "Port Adelaide",
         "Games": "24",
-        "Minutes": "2,810",
+        "Minutes": "2810",
         "Points": "1",
         "Goals": "0",
         "Behinds": "1",
@@ -2560,10 +2688,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Stephenson_934810",
         "Player": "J. Stephenson",
         "Team": "Nth Melbourne",
         "Games": "19",
-        "Minutes": "1,855",
+        "Minutes": "1855",
         "Points": "121",
         "Goals": "17",
         "Behinds": "19",
@@ -2580,10 +2709,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Jordon_849960",
         "Player": "J. Jordon",
         "Team": "Melbourne",
         "Games": "25",
-        "Minutes": "1,660",
+        "Minutes": "1660",
         "Points": "42",
         "Goals": "6",
         "Behinds": "6",
@@ -2600,10 +2730,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Fyfe_153447",
         "Player": "N. Fyfe",
         "Team": "Fremantle",
         "Games": "15",
-        "Minutes": "1,465",
+        "Minutes": "1465",
         "Points": "57",
         "Goals": "6",
         "Behinds": "21",
@@ -2620,10 +2751,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Martin_939106",
         "Player": "D. Martin",
         "Team": "Richmond",
         "Games": "16",
-        "Minutes": "1,627",
+        "Minutes": "1627",
         "Points": "121",
         "Goals": "19",
         "Behinds": "7",
@@ -2640,10 +2772,11 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "Quaynor_674795",
         "Player": "I. Quaynor",
         "Team": "Collingwood",
         "Games": "20",
-        "Minutes": "2,013",
+        "Minutes": "2013",
         "Points": "8",
         "Goals": "1",
         "Behinds": "2",
@@ -2660,10 +2793,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Rampe_379234",
         "Player": "D. Rampe",
         "Team": "Sydney Swans",
         "Games": "20",
-        "Minutes": "2,316",
+        "Minutes": "2316",
         "Points": "1",
         "Goals": "0",
         "Behinds": "1",
@@ -2680,10 +2814,11 @@
         "50m Penalties": "4"
     },
     {
+        "ID": "Weitering_304157",
         "Player": "J. Weitering",
         "Team": "Carlton",
         "Games": "22",
-        "Minutes": "2,601",
+        "Minutes": "2601",
         "Points": "1",
         "Goals": "0",
         "Behinds": "1",
@@ -2700,10 +2835,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Billings_358617",
         "Player": "J. Billings",
         "Team": "St Kilda",
         "Games": "18",
-        "Minutes": "1,840",
+        "Minutes": "1840",
         "Points": "98",
         "Goals": "14",
         "Behinds": "14",
@@ -2720,10 +2856,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Green_385059",
         "Player": "T. Green",
         "Team": "GWS Giants",
         "Games": "18",
-        "Minutes": "1,558",
+        "Minutes": "1558",
         "Points": "48",
         "Goals": "7",
         "Behinds": "6",
@@ -2740,10 +2877,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Wingard_841703",
         "Player": "C. Wingard",
         "Team": "Hawthorn",
         "Games": "16",
-        "Minutes": "1,494",
+        "Minutes": "1494",
         "Points": "83",
         "Goals": "12",
         "Behinds": "11",
@@ -2760,10 +2898,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Jonas_109234",
         "Player": "T. Jonas",
         "Team": "Port Adelaide",
         "Games": "24",
-        "Minutes": "2,793",
+        "Minutes": "2793",
         "Points": "0",
         "Goals": "0",
         "Behinds": "0",
@@ -2780,10 +2919,11 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "Langford_866555",
         "Player": "K. Langford",
         "Team": "Essendon",
         "Games": "17",
-        "Minutes": "1,715",
+        "Minutes": "1715",
         "Points": "81",
         "Goals": "13",
         "Behinds": "3",
@@ -2800,10 +2940,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Snelling_539328",
         "Player": "W. Snelling",
         "Team": "Essendon",
         "Games": "20",
-        "Minutes": "2,013",
+        "Minutes": "2013",
         "Points": "79",
         "Goals": "12",
         "Behinds": "7",
@@ -2820,10 +2961,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Cotchin_859223",
         "Player": "T. Cotchin",
         "Team": "Richmond",
         "Games": "17",
-        "Minutes": "1,444",
+        "Minutes": "1444",
         "Points": "12",
         "Goals": "2",
         "Behinds": "0",
@@ -2840,10 +2982,11 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "Andrews_213458",
         "Player": "H. Andrews",
         "Team": "Brisbane Lions",
         "Games": "23",
-        "Minutes": "2,784",
+        "Minutes": "2784",
         "Points": "7",
         "Goals": "1",
         "Behinds": "1",
@@ -2860,10 +3003,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Darcy_625838",
         "Player": "S. Darcy",
         "Team": "Fremantle",
         "Games": "21",
-        "Minutes": "2,038",
+        "Minutes": "2038",
         "Points": "84",
         "Goals": "12",
         "Behinds": "12",
@@ -2880,10 +3024,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Dunkley_224306",
         "Player": "J. Dunkley",
         "Team": "Western Bulldogs",
         "Games": "15",
-        "Minutes": "1,451",
+        "Minutes": "1451",
         "Points": "38",
         "Goals": "5",
         "Behinds": "8",
@@ -2900,10 +3045,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Doedee_544574",
         "Player": "T. Doedee",
         "Team": "Adelaide",
         "Games": "21",
-        "Minutes": "2,292",
+        "Minutes": "2292",
         "Points": "7",
         "Goals": "1",
         "Behinds": "1",
@@ -2920,10 +3066,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Hickey_569723",
         "Player": "T. Hickey",
         "Team": "Sydney Swans",
         "Games": "21",
-        "Minutes": "2,067",
+        "Minutes": "2067",
         "Points": "67",
         "Goals": "10",
         "Behinds": "7",
@@ -2940,10 +3087,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Sheppard_181208",
         "Player": "B. Sheppard",
         "Team": "West Coast",
         "Games": "20",
-        "Minutes": "2,179",
+        "Minutes": "2179",
         "Points": "0",
         "Goals": "0",
         "Behinds": "0",
@@ -2960,10 +3108,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Atley_713928",
         "Player": "S. Atley",
         "Team": "Nth Melbourne",
         "Games": "20",
-        "Minutes": "1,977",
+        "Minutes": "1977",
         "Points": "7",
         "Goals": "1",
         "Behinds": "1",
@@ -2980,10 +3129,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Bews_318227",
         "Player": "J. Bews",
         "Team": "Geelong",
         "Games": "25",
-        "Minutes": "2,462",
+        "Minutes": "2462",
         "Points": "20",
         "Goals": "3",
         "Behinds": "2",
@@ -3000,10 +3150,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Cunningham_115166",
         "Player": "H. Cunningham",
         "Team": "Sydney Swans",
         "Games": "21",
-        "Minutes": "2,196",
+        "Minutes": "2196",
         "Points": "0",
         "Goals": "0",
         "Behinds": "0",
@@ -3020,10 +3171,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Daniher_723336",
         "Player": "J. Daniher",
         "Team": "Brisbane Lions",
         "Games": "24",
-        "Minutes": "2,822",
+        "Minutes": "2822",
         "Points": "308",
         "Goals": "46",
         "Behinds": "32",
@@ -3040,10 +3192,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Hawkins_129883",
         "Player": "T. Hawkins",
         "Team": "Geelong",
         "Games": "25",
-        "Minutes": "2,922",
+        "Minutes": "2922",
         "Points": "409",
         "Goals": "62",
         "Behinds": "37",
@@ -3060,10 +3213,11 @@
         "50m Penalties": "7"
     },
     {
+        "ID": "Docherty_354156",
         "Player": "S. Docherty",
         "Team": "Carlton",
         "Games": "14",
-        "Minutes": "1,511",
+        "Minutes": "1511",
         "Points": "0",
         "Goals": "0",
         "Behinds": "0",
@@ -3080,10 +3234,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "McGrath_948538",
         "Player": "A. McGrath",
         "Team": "Essendon",
         "Games": "15",
-        "Minutes": "1,362",
+        "Minutes": "1362",
         "Points": "16",
         "Goals": "2",
         "Behinds": "4",
@@ -3100,10 +3255,11 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "Henry_275822",
         "Player": "J. Henry",
         "Team": "Geelong",
         "Games": "24",
-        "Minutes": "2,764",
+        "Minutes": "2764",
         "Points": "44",
         "Goals": "7",
         "Behinds": "2",
@@ -3120,10 +3276,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Naitanui_802912",
         "Player": "N. Naitanui",
         "Team": "West Coast",
         "Games": "22",
-        "Minutes": "1,832",
+        "Minutes": "1832",
         "Points": "25",
         "Goals": "3",
         "Behinds": "7",
@@ -3140,10 +3297,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Rozee_607013",
         "Player": "C. Rozee",
         "Team": "Port Adelaide",
         "Games": "21",
-        "Minutes": "2,196",
+        "Minutes": "2196",
         "Points": "139",
         "Goals": "21",
         "Behinds": "13",
@@ -3160,10 +3318,11 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "Viney_989069",
         "Player": "J. Viney",
         "Team": "Melbourne",
         "Games": "15",
-        "Minutes": "1,406",
+        "Minutes": "1406",
         "Points": "31",
         "Goals": "4",
         "Behinds": "7",
@@ -3180,10 +3339,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Frost_495239",
         "Player": "S. Frost",
         "Team": "Hawthorn",
         "Games": "22",
-        "Minutes": "2,453",
+        "Minutes": "2453",
         "Points": "0",
         "Goals": "0",
         "Behinds": "0",
@@ -3200,10 +3360,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Higgins_289243",
         "Player": "S. Higgins",
         "Team": "Geelong",
         "Games": "18",
-        "Minutes": "1,518",
+        "Minutes": "1518",
         "Points": "36",
         "Goals": "4",
         "Behinds": "12",
@@ -3220,10 +3381,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Sholl_640748",
         "Player": "L. Sholl",
         "Team": "Adelaide",
         "Games": "19",
-        "Minutes": "1,755",
+        "Minutes": "1755",
         "Points": "25",
         "Goals": "3",
         "Behinds": "7",
@@ -3240,10 +3402,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Heeney_240940",
         "Player": "I. Heeney",
         "Team": "Sydney Swans",
         "Games": "21",
-        "Minutes": "2,061",
+        "Minutes": "2061",
         "Points": "237",
         "Goals": "36",
         "Behinds": "21",
@@ -3260,10 +3423,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Wilkie_162592",
         "Player": "C. Wilkie",
         "Team": "St Kilda",
         "Games": "22",
-        "Minutes": "2,580",
+        "Minutes": "2580",
         "Points": "1",
         "Goals": "0",
         "Behinds": "1",
@@ -3280,10 +3444,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Blicavs_727139",
         "Player": "M. Blicavs",
         "Team": "Geelong",
         "Games": "24",
-        "Minutes": "2,593",
+        "Minutes": "2593",
         "Points": "30",
         "Goals": "5",
         "Behinds": "0",
@@ -3300,10 +3465,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Hurn_959393",
         "Player": "S. Hurn",
         "Team": "West Coast",
         "Games": "15",
-        "Minutes": "1,258",
+        "Minutes": "1258",
         "Points": "0",
         "Goals": "0",
         "Behinds": "0",
@@ -3320,10 +3486,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Bergman_252302",
         "Player": "M. Bergman",
         "Team": "Port Adelaide",
         "Games": "23",
-        "Minutes": "1,961",
+        "Minutes": "1961",
         "Points": "49",
         "Goals": "7",
         "Behinds": "7",
@@ -3340,10 +3507,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Howard_677499",
         "Player": "D. Howard",
         "Team": "St Kilda",
         "Games": "21",
-        "Minutes": "2,403",
+        "Minutes": "2403",
         "Points": "1",
         "Goals": "0",
         "Behinds": "1",
@@ -3360,10 +3528,11 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "Jiath_417332",
         "Player": "C. Jiath",
         "Team": "Hawthorn",
         "Games": "16",
-        "Minutes": "1,531",
+        "Minutes": "1531",
         "Points": "2",
         "Goals": "0",
         "Behinds": "2",
@@ -3380,10 +3549,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Acres_730471",
         "Player": "B. Acres",
         "Team": "Fremantle",
         "Games": "18",
-        "Minutes": "1,710",
+        "Minutes": "1710",
         "Points": "12",
         "Goals": "2",
         "Behinds": "0",
@@ -3400,10 +3570,11 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "Daicos_900201",
         "Player": "J. Daicos",
         "Team": "Collingwood",
         "Games": "17",
-        "Minutes": "1,591",
+        "Minutes": "1591",
         "Points": "63",
         "Goals": "9",
         "Behinds": "9",
@@ -3420,10 +3591,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Henderson_209051",
         "Player": "L. Henderson",
         "Team": "Geelong",
         "Games": "21",
-        "Minutes": "2,546",
+        "Minutes": "2546",
         "Points": "20",
         "Goals": "3",
         "Behinds": "2",
@@ -3440,10 +3612,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "McDonald_624729",
         "Player": "T. McDonald",
         "Team": "Melbourne",
         "Games": "23",
-        "Minutes": "2,352",
+        "Minutes": "2352",
         "Points": "220",
         "Goals": "33",
         "Behinds": "22",
@@ -3460,10 +3633,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Webster_824794",
         "Player": "J. Webster",
         "Team": "St Kilda",
         "Games": "20",
-        "Minutes": "1,846",
+        "Minutes": "1846",
         "Points": "6",
         "Goals": "1",
         "Behinds": "0",
@@ -3480,10 +3654,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Gray_370006",
         "Player": "R. Gray",
         "Team": "Port Adelaide",
         "Games": "18",
-        "Minutes": "1,787",
+        "Minutes": "1787",
         "Points": "128",
         "Goals": "20",
         "Behinds": "8",
@@ -3500,10 +3675,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Laverde_171032",
         "Player": "J. Laverde",
         "Team": "Essendon",
         "Games": "23",
-        "Minutes": "2,378",
+        "Minutes": "2378",
         "Points": "6",
         "Goals": "1",
         "Behinds": "0",
@@ -3520,10 +3696,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Duncan_301980",
         "Player": "M. Duncan",
         "Team": "Geelong",
         "Games": "13",
-        "Minutes": "1,164",
+        "Minutes": "1164",
         "Points": "50",
         "Goals": "8",
         "Behinds": "2",
@@ -3540,10 +3717,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Cripps_740039",
         "Player": "J. Cripps",
         "Team": "West Coast",
         "Games": "22",
-        "Minutes": "2,335",
+        "Minutes": "2335",
         "Points": "182",
         "Goals": "26",
         "Behinds": "26",
@@ -3560,10 +3738,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Goldstein_209878",
         "Player": "T. Goldstein",
         "Team": "Nth Melbourne",
         "Games": "22",
-        "Minutes": "2,389",
+        "Minutes": "2389",
         "Points": "76",
         "Goals": "12",
         "Behinds": "4",
@@ -3580,10 +3759,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Hoskin-Elliott_822927",
         "Player": "W. Hoskin-Elliott",
         "Team": "Collingwood",
         "Games": "20",
-        "Minutes": "1,984",
+        "Minutes": "1984",
         "Points": "80",
         "Goals": "13",
         "Behinds": "2",
@@ -3600,10 +3780,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Papley_462245",
         "Player": "T. Papley",
         "Team": "Sydney Swans",
         "Games": "23",
-        "Minutes": "2,446",
+        "Minutes": "2446",
         "Points": "285",
         "Goals": "43",
         "Behinds": "27",
@@ -3620,10 +3801,11 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "Membrey_809400",
         "Player": "T. Membrey",
         "Team": "St Kilda",
         "Games": "21",
-        "Minutes": "2,343",
+        "Minutes": "2343",
         "Points": "230",
         "Goals": "34",
         "Behinds": "26",
@@ -3640,10 +3822,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Newnes_712680",
         "Player": "J. Newnes",
         "Team": "Carlton",
         "Games": "19",
-        "Minutes": "1,778",
+        "Minutes": "1778",
         "Points": "33",
         "Goals": "4",
         "Behinds": "9",
@@ -3660,10 +3843,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Stringer_392969",
         "Player": "J. Stringer",
         "Team": "Essendon",
         "Games": "19",
-        "Minutes": "1,844",
+        "Minutes": "1844",
         "Points": "264",
         "Goals": "41",
         "Behinds": "18",
@@ -3680,10 +3864,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Greene_972719",
         "Player": "T. Greene",
         "Team": "GWS Giants",
         "Games": "18",
-        "Minutes": "1,998",
+        "Minutes": "1998",
         "Points": "311",
         "Goals": "45",
         "Behinds": "41",
@@ -3700,10 +3885,11 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "Kelly_395279",
         "Player": "J. Kelly",
         "Team": "Adelaide",
         "Games": "20",
-        "Minutes": "2,193",
+        "Minutes": "2193",
         "Points": "0",
         "Goals": "0",
         "Behinds": "0",
@@ -3720,10 +3906,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Jackson_963277",
         "Player": "L. Jackson",
         "Team": "Melbourne",
         "Games": "24",
-        "Minutes": "2,206",
+        "Minutes": "2206",
         "Points": "105",
         "Goals": "16",
         "Behinds": "9",
@@ -3740,10 +3927,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Moore_659076",
         "Player": "D. Moore",
         "Team": "Hawthorn",
         "Games": "20",
-        "Minutes": "1,913",
+        "Minutes": "1913",
         "Points": "173",
         "Goals": "27",
         "Behinds": "11",
@@ -3760,10 +3948,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "McCarthy_539040",
         "Player": "L. McCarthy",
         "Team": "Brisbane Lions",
         "Games": "24",
-        "Minutes": "2,476",
+        "Minutes": "2476",
         "Points": "231",
         "Goals": "36",
         "Behinds": "15",
@@ -3780,10 +3969,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Rotham_261560",
         "Player": "J. Rotham",
         "Team": "West Coast",
         "Games": "19",
-        "Minutes": "2,017",
+        "Minutes": "2017",
         "Points": "1",
         "Goals": "0",
         "Behinds": "1",
@@ -3800,10 +3990,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Jones_985348",
         "Player": "Z. Jones",
         "Team": "St Kilda",
         "Games": "13",
-        "Minutes": "1,142",
+        "Minutes": "1142",
         "Points": "26",
         "Goals": "4",
         "Behinds": "2",
@@ -3820,10 +4011,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Madgen_417377",
         "Player": "J. Madgen",
         "Team": "Collingwood",
         "Games": "19",
-        "Minutes": "1,786",
+        "Minutes": "1786",
         "Points": "8",
         "Goals": "1",
         "Behinds": "2",
@@ -3840,10 +4032,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Wilson_149091",
         "Player": "N. Wilson",
         "Team": "Fremantle",
         "Games": "18",
-        "Minutes": "1,785",
+        "Minutes": "1785",
         "Points": "4",
         "Goals": "0",
         "Behinds": "4",
@@ -3860,10 +4053,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Dunstan_174614",
         "Player": "L. Dunstan",
         "Team": "St Kilda",
         "Games": "12",
-        "Minutes": "1,191",
+        "Minutes": "1191",
         "Points": "10",
         "Goals": "1",
         "Behinds": "4",
@@ -3880,10 +4074,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Cole_153206",
         "Player": "T. Cole",
         "Team": "West Coast",
         "Games": "22",
-        "Minutes": "2,247",
+        "Minutes": "2247",
         "Points": "0",
         "Goals": "0",
         "Behinds": "0",
@@ -3900,10 +4095,11 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "Himmelberg_567690",
         "Player": "H. Himmelberg",
         "Team": "GWS Giants",
         "Games": "24",
-        "Minutes": "2,685",
+        "Minutes": "2685",
         "Points": "235",
         "Goals": "36",
         "Behinds": "19",
@@ -3920,10 +4116,11 @@
         "50m Penalties": "3"
     },
     {
+        "ID": "McInerney_377416",
         "Player": "O. McInerney",
         "Team": "Brisbane Lions",
         "Games": "23",
-        "Minutes": "2,379",
+        "Minutes": "2379",
         "Points": "41",
         "Goals": "6",
         "Behinds": "5",
@@ -3940,10 +4137,11 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "Starcevich_898430",
         "Player": "B. Starcevich",
         "Team": "Brisbane Lions",
         "Games": "24",
-        "Minutes": "2,559",
+        "Minutes": "2559",
         "Points": "0",
         "Goals": "0",
         "Behinds": "0",
@@ -3960,10 +4158,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "McCartin_716281",
         "Player": "T. McCartin",
         "Team": "Sydney Swans",
         "Games": "22",
-        "Minutes": "2,500",
+        "Minutes": "2500",
         "Points": "0",
         "Goals": "0",
         "Behinds": "0",
@@ -3980,10 +4179,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Motlop_589589",
         "Player": "S. Motlop",
         "Team": "Port Adelaide",
         "Games": "19",
-        "Minutes": "1,840",
+        "Minutes": "1840",
         "Points": "86",
         "Goals": "13",
         "Behinds": "8",
@@ -4000,10 +4200,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Pickett_367354",
         "Player": "K. Pickett",
         "Team": "Melbourne",
         "Games": "25",
-        "Minutes": "2,333",
+        "Minutes": "2333",
         "Points": "268",
         "Goals": "40",
         "Behinds": "28",
@@ -4020,10 +4221,11 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "Dixon_185816",
         "Player": "C. Dixon",
         "Team": "Port Adelaide",
         "Games": "24",
-        "Minutes": "2,766",
+        "Minutes": "2766",
         "Points": "312",
         "Goals": "48",
         "Behinds": "24",
@@ -4040,10 +4242,11 @@
         "50m Penalties": "3"
     },
     {
+        "ID": "Lycett_945376",
         "Player": "S. Lycett",
         "Team": "Port Adelaide",
         "Games": "20",
-        "Minutes": "1,911",
+        "Minutes": "1911",
         "Points": "42",
         "Goals": "6",
         "Behinds": "6",
@@ -4060,10 +4263,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Edwards_789626",
         "Player": "S. Edwards",
         "Team": "Richmond",
         "Games": "16",
-        "Minutes": "1,477",
+        "Minutes": "1477",
         "Points": "51",
         "Goals": "8",
         "Behinds": "3",
@@ -4080,10 +4284,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "O'Brien_809728",
         "Player": "R. O'Brien",
         "Team": "Adelaide",
         "Games": "20",
-        "Minutes": "2,209",
+        "Minutes": "2209",
         "Points": "12",
         "Goals": "2",
         "Behinds": "0",
@@ -4100,10 +4305,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Higgins_911884",
         "Player": "J. Higgins",
         "Team": "St Kilda",
         "Games": "19",
-        "Minutes": "1,893",
+        "Minutes": "1893",
         "Points": "178",
         "Goals": "27",
         "Behinds": "16",
@@ -4120,10 +4326,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Close_393697",
         "Player": "B. Close",
         "Team": "Geelong",
         "Games": "22",
-        "Minutes": "2,145",
+        "Minutes": "2145",
         "Points": "100",
         "Goals": "15",
         "Behinds": "10",
@@ -4140,10 +4347,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "English_801051",
         "Player": "T. English",
         "Team": "Western Bulldogs",
         "Games": "22",
-        "Minutes": "2,219",
+        "Minutes": "2219",
         "Points": "129",
         "Goals": "19",
         "Behinds": "15",
@@ -4160,10 +4368,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Ballard_109736",
         "Player": "C. Ballard",
         "Team": "Gold Coast",
         "Games": "21",
-        "Minutes": "2,345",
+        "Minutes": "2345",
         "Points": "0",
         "Goals": "0",
         "Behinds": "0",
@@ -4180,10 +4389,11 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "Impey_802588",
         "Player": "J. Impey",
         "Team": "Hawthorn",
         "Games": "13",
-        "Minutes": "1,267",
+        "Minutes": "1267",
         "Points": "12",
         "Goals": "2",
         "Behinds": "0",
@@ -4200,10 +4410,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Spargo_442492",
         "Player": "C. Spargo",
         "Team": "Melbourne",
         "Games": "25",
-        "Minutes": "2,244",
+        "Minutes": "2244",
         "Points": "124",
         "Goals": "18",
         "Behinds": "16",
@@ -4220,10 +4431,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Grimes_261238",
         "Player": "D. Grimes",
         "Team": "Richmond",
         "Games": "21",
-        "Minutes": "2,193",
+        "Minutes": "2193",
         "Points": "0",
         "Goals": "0",
         "Behinds": "0",
@@ -4240,10 +4452,11 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "Idun_266015",
         "Player": "C. Idun",
         "Team": "GWS Giants",
         "Games": "23",
-        "Minutes": "2,402",
+        "Minutes": "2402",
         "Points": "0",
         "Goals": "0",
         "Behinds": "0",
@@ -4260,10 +4473,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Markov_412046",
         "Player": "O. Markov",
         "Team": "Gold Coast",
         "Games": "17",
-        "Minutes": "1,538",
+        "Minutes": "1538",
         "Points": "10",
         "Goals": "1",
         "Behinds": "4",
@@ -4280,10 +4494,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Smith_181641",
         "Player": "D. Smith",
         "Team": "Essendon",
         "Games": "20",
-        "Minutes": "1,926",
+        "Minutes": "1926",
         "Points": "115",
         "Goals": "16",
         "Behinds": "19",
@@ -4300,10 +4515,11 @@
         "50m Penalties": "4"
     },
     {
+        "ID": "Gulden_436813",
         "Player": "E. Gulden",
         "Team": "Sydney Swans",
         "Games": "18",
-        "Minutes": "1,759",
+        "Minutes": "1759",
         "Points": "95",
         "Goals": "14",
         "Behinds": "11",
@@ -4320,10 +4536,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Pickett_406598",
         "Player": "M. Pickett",
         "Team": "Richmond",
         "Games": "18",
-        "Minutes": "1,743",
+        "Minutes": "1743",
         "Points": "16",
         "Goals": "2",
         "Behinds": "4",
@@ -4340,10 +4557,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Stanley_788724",
         "Player": "R. Stanley",
         "Team": "Geelong",
         "Games": "19",
-        "Minutes": "1,700",
+        "Minutes": "1700",
         "Points": "53",
         "Goals": "8",
         "Behinds": "5",
@@ -4360,10 +4578,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Naughton_771878",
         "Player": "A. Naughton",
         "Team": "Western Bulldogs",
         "Games": "25",
-        "Minutes": "2,565",
+        "Minutes": "2565",
         "Points": "322",
         "Goals": "47",
         "Behinds": "40",
@@ -4380,10 +4599,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Bonner_444628",
         "Player": "R. Bonner",
         "Team": "Port Adelaide",
         "Games": "14",
-        "Minutes": "1,323",
+        "Minutes": "1323",
         "Points": "13",
         "Goals": "2",
         "Behinds": "1",
@@ -4400,10 +4620,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Colyer_553172",
         "Player": "T. Colyer",
         "Team": "Fremantle",
         "Games": "22",
-        "Minutes": "2,174",
+        "Minutes": "2174",
         "Points": "109",
         "Goals": "15",
         "Behinds": "19",
@@ -4420,10 +4641,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Keath_538933",
         "Player": "A. Keath",
         "Team": "Western Bulldogs",
         "Games": "23",
-        "Minutes": "2,669",
+        "Minutes": "2669",
         "Points": "1",
         "Goals": "0",
         "Behinds": "1",
@@ -4440,10 +4662,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Roughead_113407",
         "Player": "J. Roughead",
         "Team": "Collingwood",
         "Games": "21",
-        "Minutes": "2,370",
+        "Minutes": "2370",
         "Points": "0",
         "Goals": "0",
         "Behinds": "0",
@@ -4460,10 +4683,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Houli_358149",
         "Player": "B. Houli",
         "Team": "Richmond",
         "Games": "12",
-        "Minutes": "1,175",
+        "Minutes": "1175",
         "Points": "6",
         "Goals": "1",
         "Behinds": "0",
@@ -4480,10 +4704,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "McEvoy_840739",
         "Player": "B. McEvoy",
         "Team": "Hawthorn",
         "Games": "22",
-        "Minutes": "2,171",
+        "Minutes": "2171",
         "Points": "80",
         "Goals": "12",
         "Behinds": "8",
@@ -4500,10 +4725,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Newman_324241",
         "Player": "N. Newman",
         "Team": "Carlton",
         "Games": "14",
-        "Minutes": "1,363",
+        "Minutes": "1363",
         "Points": "1",
         "Goals": "0",
         "Behinds": "1",
@@ -4520,10 +4746,11 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "Hunt_169512",
         "Player": "J. Hunt",
         "Team": "Melbourne",
         "Games": "20",
-        "Minutes": "1,924",
+        "Minutes": "1924",
         "Points": "15",
         "Goals": "2",
         "Behinds": "3",
@@ -4540,10 +4767,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Taylor_736312",
         "Player": "S. Taylor",
         "Team": "GWS Giants",
         "Games": "19",
-        "Minutes": "2,190",
+        "Minutes": "2190",
         "Points": "0",
         "Goals": "0",
         "Behinds": "0",
@@ -4560,10 +4788,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Tucker_212243",
         "Player": "D. Tucker",
         "Team": "Fremantle",
         "Games": "16",
-        "Minutes": "1,609",
+        "Minutes": "1609",
         "Points": "2",
         "Goals": "0",
         "Behinds": "2",
@@ -4580,10 +4809,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Kolodjashnij_632289",
         "Player": "J. Kolodjashnij",
         "Team": "Geelong",
         "Games": "22",
-        "Minutes": "2,252",
+        "Minutes": "2252",
         "Points": "6",
         "Goals": "1",
         "Behinds": "0",
@@ -4600,10 +4830,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Lambert_149765",
         "Player": "K. Lambert",
         "Team": "Richmond",
         "Games": "13",
-        "Minutes": "1,228",
+        "Minutes": "1228",
         "Points": "40",
         "Goals": "6",
         "Behinds": "4",
@@ -4620,10 +4851,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Lemmens_472710",
         "Player": "S. Lemmens",
         "Team": "Gold Coast",
         "Games": "21",
-        "Minutes": "2,080",
+        "Minutes": "2080",
         "Points": "0",
         "Goals": "0",
         "Behinds": "0",
@@ -4640,10 +4872,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Nankervis_863418",
         "Player": "T. Nankervis",
         "Team": "Richmond",
         "Games": "16",
-        "Minutes": "1,464",
+        "Minutes": "1464",
         "Points": "11",
         "Goals": "1",
         "Behinds": "5",
@@ -4660,10 +4893,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Darling_514292",
         "Player": "J. Darling",
         "Team": "West Coast",
         "Games": "22",
-        "Minutes": "2,616",
+        "Minutes": "2616",
         "Points": "271",
         "Goals": "42",
         "Behinds": "19",
@@ -4680,10 +4914,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Duggan_338823",
         "Player": "L. Duggan",
         "Team": "West Coast",
         "Games": "14",
-        "Minutes": "1,427",
+        "Minutes": "1427",
         "Points": "0",
         "Goals": "0",
         "Behinds": "0",
@@ -4700,10 +4935,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Thomas_932416",
         "Player": "J. Thomas",
         "Team": "Collingwood",
         "Games": "20",
-        "Minutes": "1,699",
+        "Minutes": "1699",
         "Points": "81",
         "Goals": "12",
         "Behinds": "9",
@@ -4720,10 +4956,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Williams_916341",
         "Player": "Z. Williams",
         "Team": "Carlton",
         "Games": "14",
-        "Minutes": "1,247",
+        "Minutes": "1247",
         "Points": "34",
         "Goals": "5",
         "Behinds": "4",
@@ -4740,10 +4977,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Yeo_133108",
         "Player": "E. Yeo",
         "Team": "West Coast",
         "Games": "12",
-        "Minutes": "1,133",
+        "Minutes": "1133",
         "Points": "25",
         "Goals": "3",
         "Behinds": "7",
@@ -4760,10 +4998,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Greenwood_209353",
         "Player": "H. Greenwood",
         "Team": "Gold Coast",
         "Games": "15",
-        "Minutes": "1,306",
+        "Minutes": "1306",
         "Points": "42",
         "Goals": "6",
         "Behinds": "6",
@@ -4780,10 +5019,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "McIntosh_832204",
         "Player": "K. McIntosh",
         "Team": "Richmond",
         "Games": "17",
-        "Minutes": "1,582",
+        "Minutes": "1582",
         "Points": "10",
         "Goals": "1",
         "Behinds": "4",
@@ -4800,10 +5040,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Rowbottom_967243",
         "Player": "J. Rowbottom",
         "Team": "Sydney Swans",
         "Games": "17",
-        "Minutes": "1,307",
+        "Minutes": "1307",
         "Points": "39",
         "Goals": "6",
         "Behinds": "3",
@@ -4820,10 +5061,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Ainsworth_263921",
         "Player": "B. Ainsworth",
         "Team": "Gold Coast",
         "Games": "17",
-        "Minutes": "1,581",
+        "Minutes": "1581",
         "Points": "90",
         "Goals": "12",
         "Behinds": "18",
@@ -4840,10 +5082,11 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "Cameron_266756",
         "Player": "C. Cameron",
         "Team": "Brisbane Lions",
         "Games": "24",
-        "Minutes": "2,613",
+        "Minutes": "2613",
         "Points": "363",
         "Goals": "55",
         "Behinds": "33",
@@ -4860,10 +5103,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Turner_809600",
         "Player": "K. Turner",
         "Team": "Nth Melbourne",
         "Games": "22",
-        "Minutes": "2,188",
+        "Minutes": "2188",
         "Points": "16",
         "Goals": "2",
         "Behinds": "4",
@@ -4880,10 +5124,11 @@
         "50m Penalties": "3"
     },
     {
+        "ID": "Cox_467372",
         "Player": "N. Cox",
         "Team": "Essendon",
         "Games": "22",
-        "Minutes": "1,894",
+        "Minutes": "1894",
         "Points": "63",
         "Goals": "9",
         "Behinds": "9",
@@ -4900,10 +5145,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "McHenry_894420",
         "Player": "N. McHenry",
         "Team": "Adelaide",
         "Games": "21",
-        "Minutes": "2,017",
+        "Minutes": "2017",
         "Points": "73",
         "Goals": "11",
         "Behinds": "7",
@@ -4920,10 +5166,11 @@
         "50m Penalties": "3"
     },
     {
+        "ID": "Walker_567171",
         "Player": "J. Walker",
         "Team": "Nth Melbourne",
         "Games": "21",
-        "Minutes": "2,238",
+        "Minutes": "2238",
         "Points": "19",
         "Goals": "3",
         "Behinds": "1",
@@ -4940,10 +5187,11 @@
         "50m Penalties": "4"
     },
     {
+        "ID": "Dahlhaus_541002",
         "Player": "L. Dahlhaus",
         "Team": "Geelong",
         "Games": "21",
-        "Minutes": "1,841",
+        "Minutes": "1841",
         "Points": "57",
         "Goals": "7",
         "Behinds": "15",
@@ -4960,10 +5208,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Johannissen_628330",
         "Player": "J. Johannissen",
         "Team": "Western Bulldogs",
         "Games": "25",
-        "Minutes": "2,169",
+        "Minutes": "2169",
         "Points": "102",
         "Goals": "15",
         "Behinds": "12",
@@ -4980,10 +5229,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Taylor_237308",
         "Player": "C. Taylor",
         "Team": "Nth Melbourne",
         "Games": "19",
-        "Minutes": "1,607",
+        "Minutes": "1607",
         "Points": "47",
         "Goals": "7",
         "Behinds": "5",
@@ -5000,10 +5250,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Dumont_515621",
         "Player": "T. Dumont",
         "Team": "Nth Melbourne",
         "Games": "14",
-        "Minutes": "1,327",
+        "Minutes": "1327",
         "Points": "0",
         "Goals": "0",
         "Behinds": "0",
@@ -5020,10 +5271,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Clark_274271",
         "Player": "H. Clark",
         "Team": "St Kilda",
         "Games": "13",
-        "Minutes": "1,128",
+        "Minutes": "1128",
         "Points": "13",
         "Goals": "2",
         "Behinds": "1",
@@ -5040,10 +5292,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Butler_603738",
         "Player": "D. Butler",
         "Team": "St Kilda",
         "Games": "22",
-        "Minutes": "2,317",
+        "Minutes": "2317",
         "Points": "125",
         "Goals": "18",
         "Behinds": "17",
@@ -5060,10 +5313,11 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "Byrnes_394961",
         "Player": "R. Byrnes",
         "Team": "St Kilda",
         "Games": "16",
-        "Minutes": "1,362",
+        "Minutes": "1362",
         "Points": "37",
         "Goals": "6",
         "Behinds": "1",
@@ -5080,10 +5334,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Rioli_965910",
         "Player": "D. Rioli",
         "Team": "Richmond",
         "Games": "19",
-        "Minutes": "1,586",
+        "Minutes": "1586",
         "Points": "60",
         "Goals": "9",
         "Behinds": "6",
@@ -5100,10 +5355,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Castagna_248814",
         "Player": "J. Castagna",
         "Team": "Richmond",
         "Games": "21",
-        "Minutes": "1,974",
+        "Minutes": "1974",
         "Points": "115",
         "Goals": "17",
         "Behinds": "13",
@@ -5120,10 +5376,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Fogarty_751943",
         "Player": "L. Fogarty",
         "Team": "Carlton",
         "Games": "17",
-        "Minutes": "1,499",
+        "Minutes": "1499",
         "Points": "42",
         "Goals": "6",
         "Behinds": "6",
@@ -5140,10 +5397,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "McGovern_997353",
         "Player": "J. McGovern",
         "Team": "West Coast",
         "Games": "15",
-        "Minutes": "1,477",
+        "Minutes": "1477",
         "Points": "0",
         "Goals": "0",
         "Behinds": "0",
@@ -5160,10 +5418,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Wright_325476",
         "Player": "P. Wright",
         "Team": "Essendon",
         "Games": "21",
-        "Minutes": "2,036",
+        "Minutes": "2036",
         "Points": "188",
         "Goals": "29",
         "Behinds": "14",
@@ -5180,10 +5439,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Wicks_936878",
         "Player": "S. Wicks",
         "Team": "Sydney Swans",
         "Games": "22",
-        "Minutes": "2,112",
+        "Minutes": "2112",
         "Points": "120",
         "Goals": "17",
         "Behinds": "18",
@@ -5200,10 +5460,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Fritsch_119524",
         "Player": "B. Fritsch",
         "Team": "Melbourne",
         "Games": "24",
-        "Minutes": "2,510",
+        "Minutes": "2510",
         "Points": "378",
         "Goals": "59",
         "Behinds": "24",
@@ -5220,10 +5481,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "McPherson_897254",
         "Player": "A. McPherson",
         "Team": "Adelaide",
         "Games": "18",
-        "Minutes": "1,549",
+        "Minutes": "1549",
         "Points": "0",
         "Goals": "0",
         "Behinds": "0",
@@ -5240,10 +5502,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Dow_680680",
         "Player": "P. Dow",
         "Team": "Carlton",
         "Games": "17",
-        "Minutes": "1,311",
+        "Minutes": "1311",
         "Points": "26",
         "Goals": "4",
         "Behinds": "2",
@@ -5260,10 +5523,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Rowe_538068",
         "Player": "J. Rowe",
         "Team": "Adelaide",
         "Games": "19",
-        "Minutes": "1,757",
+        "Minutes": "1757",
         "Points": "101",
         "Goals": "15",
         "Behinds": "11",
@@ -5280,10 +5544,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Weller_797198",
         "Player": "L. Weller",
         "Team": "Gold Coast",
         "Games": "13",
-        "Minutes": "1,195",
+        "Minutes": "1195",
         "Points": "45",
         "Goals": "7",
         "Behinds": "3",
@@ -5300,10 +5565,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Mackay_252391",
         "Player": "D. Mackay",
         "Team": "Adelaide",
         "Games": "18",
-        "Minutes": "1,629",
+        "Minutes": "1629",
         "Points": "42",
         "Goals": "6",
         "Behinds": "6",
@@ -5320,10 +5586,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Riewoldt_941837",
         "Player": "J. Riewoldt",
         "Team": "Richmond",
         "Games": "22",
-        "Minutes": "2,450",
+        "Minutes": "2450",
         "Points": "335",
         "Goals": "51",
         "Behinds": "29",
@@ -5340,10 +5607,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Kennedy_427902",
         "Player": "M. Kennedy",
         "Team": "Carlton",
         "Games": "13",
-        "Minutes": "1,018",
+        "Minutes": "1018",
         "Points": "38",
         "Goals": "6",
         "Behinds": "2",
@@ -5360,10 +5628,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Breust_421748",
         "Player": "L. Breust",
         "Team": "Hawthorn",
         "Games": "19",
-        "Minutes": "1,804",
+        "Minutes": "1804",
         "Points": "209",
         "Goals": "33",
         "Behinds": "11",
@@ -5380,10 +5649,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Perkins_174952",
         "Player": "A. Perkins",
         "Team": "Essendon",
         "Games": "21",
-        "Minutes": "1,725",
+        "Minutes": "1725",
         "Points": "68",
         "Goals": "9",
         "Behinds": "14",
@@ -5400,10 +5670,11 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "Stocker_938239",
         "Player": "L. Stocker",
         "Team": "Carlton",
         "Games": "17",
-        "Minutes": "1,641",
+        "Minutes": "1641",
         "Points": "13",
         "Goals": "2",
         "Behinds": "1",
@@ -5420,10 +5691,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Adams_690179",
         "Player": "M. Adams",
         "Team": "Brisbane Lions",
         "Games": "17",
-        "Minutes": "1,949",
+        "Minutes": "1949",
         "Points": "0",
         "Goals": "0",
         "Behinds": "0",
@@ -5440,10 +5712,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Guelfi_772845",
         "Player": "M. Guelfi",
         "Team": "Essendon",
         "Games": "20",
-        "Minutes": "1,543",
+        "Minutes": "1543",
         "Points": "40",
         "Goals": "6",
         "Behinds": "4",
@@ -5460,10 +5733,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Zurhaar_698063",
         "Player": "C. Zurhaar",
         "Team": "Nth Melbourne",
         "Games": "20",
-        "Minutes": "1,842",
+        "Minutes": "1842",
         "Points": "209",
         "Goals": "31",
         "Behinds": "23",
@@ -5480,6 +5754,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Fiorini_603846",
         "Player": "B. Fiorini",
         "Team": "Gold Coast",
         "Games": "10",
@@ -5500,10 +5775,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Astbury_778009",
         "Player": "D. Astbury",
         "Team": "Richmond",
         "Games": "17",
-        "Minutes": "1,831",
+        "Minutes": "1831",
         "Points": "0",
         "Goals": "0",
         "Behinds": "0",
@@ -5520,10 +5796,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Nelson_252350",
         "Player": "J. Nelson",
         "Team": "West Coast",
         "Games": "19",
-        "Minutes": "1,748",
+        "Minutes": "1748",
         "Points": "1",
         "Goals": "0",
         "Behinds": "1",
@@ -5540,10 +5817,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Miers_993543",
         "Player": "G. Miers",
         "Team": "Geelong",
         "Games": "15",
-        "Minutes": "1,517",
+        "Minutes": "1517",
         "Points": "79",
         "Goals": "12",
         "Behinds": "7",
@@ -5560,10 +5838,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Butts_469377",
         "Player": "J. Butts",
         "Team": "Adelaide",
         "Games": "22",
-        "Minutes": "2,460",
+        "Minutes": "2460",
         "Points": "0",
         "Goals": "0",
         "Behinds": "0",
@@ -5580,10 +5859,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Ladhams_712068",
         "Player": "P. Ladhams",
         "Team": "Port Adelaide",
         "Games": "17",
-        "Minutes": "1,649",
+        "Minutes": "1649",
         "Points": "83",
         "Goals": "13",
         "Behinds": "5",
@@ -5600,10 +5880,11 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "Morrison_559726",
         "Player": "H. Morrison",
         "Team": "Hawthorn",
         "Games": "15",
-        "Minutes": "1,290",
+        "Minutes": "1290",
         "Points": "44",
         "Goals": "7",
         "Behinds": "2",
@@ -5620,10 +5901,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Broad_634768",
         "Player": "N. Broad",
         "Team": "Richmond",
         "Games": "14",
-        "Minutes": "1,513",
+        "Minutes": "1513",
         "Points": "0",
         "Goals": "0",
         "Behinds": "0",
@@ -5640,10 +5922,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Collins_497197",
         "Player": "S. Collins",
         "Team": "Gold Coast",
         "Games": "19",
-        "Minutes": "2,167",
+        "Minutes": "2167",
         "Points": "0",
         "Goals": "0",
         "Behinds": "0",
@@ -5660,10 +5943,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Coffield_247785",
         "Player": "N. Coffield",
         "Team": "St Kilda",
         "Games": "16",
-        "Minutes": "1,532",
+        "Minutes": "1532",
         "Points": "7",
         "Goals": "1",
         "Behinds": "1",
@@ -5680,10 +5964,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Ham_599383",
         "Player": "B. Ham",
         "Team": "Essendon",
         "Games": "19",
-        "Minutes": "1,484",
+        "Minutes": "1484",
         "Points": "40",
         "Goals": "5",
         "Behinds": "10",
@@ -5700,10 +5985,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Mihocek_194309",
         "Player": "B. Mihocek",
         "Team": "Collingwood",
         "Games": "21",
-        "Minutes": "2,142",
+        "Minutes": "2142",
         "Points": "238",
         "Goals": "34",
         "Behinds": "34",
@@ -5720,10 +6006,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Hibberd_863055",
         "Player": "M. Hibberd",
         "Team": "Melbourne",
         "Games": "17",
-        "Minutes": "1,686",
+        "Minutes": "1686",
         "Points": "0",
         "Goals": "0",
         "Behinds": "0",
@@ -5740,10 +6027,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Walker_688959",
         "Player": "T. Walker",
         "Team": "Adelaide",
         "Games": "17",
-        "Minutes": "1,802",
+        "Minutes": "1802",
         "Points": "317",
         "Goals": "48",
         "Behinds": "29",
@@ -5760,10 +6048,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Butters_146554",
         "Player": "Z. Butters",
         "Team": "Port Adelaide",
         "Games": "12",
-        "Minutes": "1,123",
+        "Minutes": "1123",
         "Points": "50",
         "Goals": "8",
         "Behinds": "2",
@@ -5780,10 +6069,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Walters_215095",
         "Player": "M. Walters",
         "Team": "Fremantle",
         "Games": "16",
-        "Minutes": "1,571",
+        "Minutes": "1571",
         "Points": "95",
         "Goals": "14",
         "Behinds": "11",
@@ -5800,10 +6090,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Aarts_137985",
         "Player": "J. Aarts",
         "Team": "Richmond",
         "Games": "21",
-        "Minutes": "1,816",
+        "Minutes": "1816",
         "Points": "120",
         "Goals": "18",
         "Behinds": "12",
@@ -5820,10 +6111,11 @@
         "50m Penalties": "4"
     },
     {
+        "ID": "Barrass_821397",
         "Player": "T. Barrass",
         "Team": "West Coast",
         "Games": "16",
-        "Minutes": "1,705",
+        "Minutes": "1705",
         "Points": "0",
         "Goals": "0",
         "Behinds": "0",
@@ -5840,10 +6132,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Bruce_522795",
         "Player": "J. Bruce",
         "Team": "Western Bulldogs",
         "Games": "20",
-        "Minutes": "2,122",
+        "Minutes": "2122",
         "Points": "309",
         "Goals": "48",
         "Behinds": "21",
@@ -5860,10 +6153,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Moore_296198",
         "Player": "D. Moore",
         "Team": "Collingwood",
         "Games": "13",
-        "Minutes": "1,431",
+        "Minutes": "1431",
         "Points": "25",
         "Goals": "4",
         "Behinds": "1",
@@ -5880,10 +6174,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Mahony_108802",
         "Player": "J. Mahony",
         "Team": "Nth Melbourne",
         "Games": "19",
-        "Minutes": "1,736",
+        "Minutes": "1736",
         "Points": "58",
         "Goals": "9",
         "Behinds": "4",
@@ -5900,10 +6195,11 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "Schultz_686619",
         "Player": "L. Schultz",
         "Team": "Fremantle",
         "Games": "20",
-        "Minutes": "1,904",
+        "Minutes": "1904",
         "Points": "149",
         "Goals": "22",
         "Behinds": "17",
@@ -5920,10 +6216,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Cameron_183032",
         "Player": "D. Cameron",
         "Team": "Collingwood",
         "Games": "18",
-        "Minutes": "1,729",
+        "Minutes": "1729",
         "Points": "141",
         "Goals": "22",
         "Behinds": "9",
@@ -5940,10 +6237,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Jones_840568",
         "Player": "L. Jones",
         "Team": "Carlton",
         "Games": "19",
-        "Minutes": "2,235",
+        "Minutes": "2235",
         "Points": "1",
         "Goals": "0",
         "Behinds": "1",
@@ -5960,10 +6258,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "O'Brien_615204",
         "Player": "T. O'Brien",
         "Team": "Hawthorn",
         "Games": "19",
-        "Minutes": "1,821",
+        "Minutes": "1821",
         "Points": "77",
         "Goals": "12",
         "Behinds": "5",
@@ -5980,10 +6279,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Plowman_274761",
         "Player": "L. Plowman",
         "Team": "Carlton",
         "Games": "19",
-        "Minutes": "2,114",
+        "Minutes": "2114",
         "Points": "6",
         "Goals": "1",
         "Behinds": "0",
@@ -6000,10 +6300,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Powell-Pepper_125413",
         "Player": "S. Powell-Pepper",
         "Team": "Port Adelaide",
         "Games": "16",
-        "Minutes": "1,253",
+        "Minutes": "1253",
         "Points": "68",
         "Goals": "10",
         "Behinds": "8",
@@ -6020,10 +6321,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Vlastuin_794556",
         "Player": "N. Vlastuin",
         "Team": "Richmond",
         "Games": "12",
-        "Minutes": "1,200",
+        "Minutes": "1200",
         "Points": "1",
         "Goals": "0",
         "Behinds": "1",
@@ -6040,10 +6342,11 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "Burgoyne_417730",
         "Player": "S. Burgoyne",
         "Team": "Hawthorn",
         "Games": "18",
-        "Minutes": "1,422",
+        "Minutes": "1422",
         "Points": "7",
         "Goals": "1",
         "Behinds": "1",
@@ -6060,10 +6363,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Powell_791401",
         "Player": "T. Powell",
         "Team": "Nth Melbourne",
         "Games": "13",
-        "Minutes": "1,174",
+        "Minutes": "1174",
         "Points": "26",
         "Goals": "4",
         "Behinds": "2",
@@ -6080,10 +6384,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Scott_579789",
         "Player": "B. Scott",
         "Team": "Nth Melbourne",
         "Games": "17",
-        "Minutes": "1,517",
+        "Minutes": "1517",
         "Points": "53",
         "Goals": "8",
         "Behinds": "5",
@@ -6100,10 +6405,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Sexton_859994",
         "Player": "A. Sexton",
         "Team": "Gold Coast",
         "Games": "21",
-        "Minutes": "1,671",
+        "Minutes": "1671",
         "Points": "140",
         "Goals": "21",
         "Behinds": "14",
@@ -6120,10 +6426,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Warner_937423",
         "Player": "C. Warner",
         "Team": "Sydney Swans",
         "Games": "13",
-        "Minutes": "1,218",
+        "Minutes": "1218",
         "Points": "53",
         "Goals": "8",
         "Behinds": "5",
@@ -6140,10 +6447,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Lynch_858502",
         "Player": "T. Lynch",
         "Team": "Adelaide",
         "Games": "12",
-        "Minutes": "1,125",
+        "Minutes": "1125",
         "Points": "57",
         "Goals": "8",
         "Behinds": "9",
@@ -6160,6 +6468,7 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Narkle_587959",
         "Player": "Q. Narkle",
         "Team": "Geelong",
         "Games": "16",
@@ -6180,10 +6489,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Marshall_502166",
         "Player": "T. Marshall",
         "Team": "Port Adelaide",
         "Games": "21",
-        "Minutes": "1,751",
+        "Minutes": "1751",
         "Points": "156",
         "Goals": "24",
         "Behinds": "12",
@@ -6200,10 +6510,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Rohan_508338",
         "Player": "G. Rohan",
         "Team": "Geelong",
         "Games": "21",
-        "Minutes": "2,082",
+        "Minutes": "2082",
         "Points": "210",
         "Goals": "32",
         "Behinds": "18",
@@ -6220,10 +6531,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Blakey_128139",
         "Player": "N. Blakey",
         "Team": "Sydney Swans",
         "Games": "17",
-        "Minutes": "1,329",
+        "Minutes": "1329",
         "Points": "24",
         "Goals": "3",
         "Behinds": "6",
@@ -6240,10 +6552,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Franklin_246786",
         "Player": "L. Franklin",
         "Team": "Sydney Swans",
         "Games": "18",
-        "Minutes": "1,954",
+        "Minutes": "1954",
         "Points": "330",
         "Goals": "51",
         "Behinds": "24",
@@ -6260,10 +6573,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "McKenzie_374287",
         "Player": "T. McKenzie",
         "Team": "Port Adelaide",
         "Games": "14",
-        "Minutes": "1,542",
+        "Minutes": "1542",
         "Points": "6",
         "Goals": "1",
         "Behinds": "0",
@@ -6280,10 +6594,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Stewart_277935",
         "Player": "J. Stewart",
         "Team": "Essendon",
         "Games": "17",
-        "Minutes": "1,802",
+        "Minutes": "1802",
         "Points": "0",
         "Goals": "0",
         "Behinds": "0",
@@ -6300,10 +6615,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Allen_563888",
         "Player": "O. Allen",
         "Team": "West Coast",
         "Games": "21",
-        "Minutes": "2,089",
+        "Minutes": "2089",
         "Points": "184",
         "Goals": "28",
         "Behinds": "16",
@@ -6320,10 +6636,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Rankine_555412",
         "Player": "I. Rankine",
         "Team": "Gold Coast",
         "Games": "18",
-        "Minutes": "1,795",
+        "Minutes": "1795",
         "Points": "107",
         "Goals": "16",
         "Behinds": "11",
@@ -6340,10 +6657,11 @@
         "50m Penalties": "4"
     },
     {
+        "ID": "Georgiades_559051",
         "Player": "M. Georgiades",
         "Team": "Port Adelaide",
         "Games": "21",
-        "Minutes": "1,901",
+        "Minutes": "1901",
         "Points": "209",
         "Goals": "32",
         "Behinds": "17",
@@ -6360,10 +6678,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Larkey_681686",
         "Player": "N. Larkey",
         "Team": "Nth Melbourne",
         "Games": "22",
-        "Minutes": "2,273",
+        "Minutes": "2273",
         "Points": "267",
         "Goals": "42",
         "Behinds": "15",
@@ -6380,10 +6699,11 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "McKay_310354",
         "Player": "B. McKay",
         "Team": "Nth Melbourne",
         "Games": "22",
-        "Minutes": "2,484",
+        "Minutes": "2484",
         "Points": "0",
         "Goals": "0",
         "Behinds": "0",
@@ -6400,10 +6720,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Robertson_721804",
         "Player": "D. Robertson",
         "Team": "Brisbane Lions",
         "Games": "16",
-        "Minutes": "1,398",
+        "Minutes": "1398",
         "Points": "26",
         "Goals": "4",
         "Behinds": "2",
@@ -6420,10 +6741,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Hayward_321710",
         "Player": "W. Hayward",
         "Team": "Sydney Swans",
         "Games": "20",
-        "Minutes": "1,884",
+        "Minutes": "1884",
         "Points": "183",
         "Goals": "28",
         "Behinds": "15",
@@ -6440,10 +6762,11 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "Duursma_595999",
         "Player": "X. Duursma",
         "Team": "Port Adelaide",
         "Games": "11",
-        "Minutes": "1,071",
+        "Minutes": "1071",
         "Points": "21",
         "Goals": "3",
         "Behinds": "3",
@@ -6460,10 +6783,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Hooker_484755",
         "Player": "C. Hooker",
         "Team": "Essendon",
         "Games": "18",
-        "Minutes": "1,841",
+        "Minutes": "1841",
         "Points": "222",
         "Goals": "33",
         "Behinds": "24",
@@ -6480,10 +6804,11 @@
         "50m Penalties": "3"
     },
     {
+        "ID": "O'Connor_582915",
         "Player": "M. O'Connor",
         "Team": "Geelong",
         "Games": "14",
-        "Minutes": "1,301",
+        "Minutes": "1301",
         "Points": "6",
         "Goals": "1",
         "Behinds": "0",
@@ -6500,10 +6825,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Holman_703320",
         "Player": "N. Holman",
         "Team": "Gold Coast",
         "Games": "16",
-        "Minutes": "1,437",
+        "Minutes": "1437",
         "Points": "65",
         "Goals": "10",
         "Behinds": "5",
@@ -6520,10 +6846,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Lloyd_753687",
         "Player": "D. Lloyd",
         "Team": "GWS Giants",
         "Games": "16",
-        "Minutes": "1,606",
+        "Minutes": "1606",
         "Points": "128",
         "Goals": "20",
         "Behinds": "8",
@@ -6540,10 +6867,11 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "Marshall_167908",
         "Player": "R. Marshall",
         "Team": "St Kilda",
         "Games": "13",
-        "Minutes": "1,142",
+        "Minutes": "1142",
         "Points": "59",
         "Goals": "9",
         "Behinds": "5",
@@ -6560,10 +6888,11 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "Hartigan_146294",
         "Player": "K. Hartigan",
         "Team": "Hawthorn",
         "Games": "19",
-        "Minutes": "2,177",
+        "Minutes": "2177",
         "Points": "0",
         "Goals": "0",
         "Behinds": "0",
@@ -6580,10 +6909,11 @@
         "50m Penalties": "4"
     },
     {
+        "ID": "McDonald-Tipungwuti_599591",
         "Player": "A. McDonald-Tipungwuti",
         "Team": "Essendon",
         "Games": "20",
-        "Minutes": "1,927",
+        "Minutes": "1927",
         "Points": "218",
         "Goals": "34",
         "Behinds": "14",
@@ -6600,10 +6930,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Elliott_848117",
         "Player": "J. Elliott",
         "Team": "Collingwood",
         "Games": "13",
-        "Minutes": "1,216",
+        "Minutes": "1216",
         "Points": "158",
         "Goals": "25",
         "Behinds": "8",
@@ -6620,6 +6951,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Prestia_765174",
         "Player": "D. Prestia",
         "Team": "Richmond",
         "Games": "9",
@@ -6640,10 +6972,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Silvagni_610547",
         "Player": "J. Silvagni",
         "Team": "Carlton",
         "Games": "15",
-        "Minutes": "1,382",
+        "Minutes": "1382",
         "Points": "67",
         "Goals": "9",
         "Behinds": "13",
@@ -6660,6 +6993,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Witherden_986227",
         "Player": "A. Witherden",
         "Team": "West Coast",
         "Games": "9",
@@ -6680,10 +7014,11 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "Ah_912440",
         "Player": "C. Ah Chee",
         "Team": "Brisbane Lions",
         "Games": "21",
-        "Minutes": "1,959",
+        "Minutes": "1959",
         "Points": "42",
         "Goals": "7",
         "Behinds": "0",
@@ -6700,10 +7035,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Lynch_806031",
         "Player": "T. Lynch",
         "Team": "Richmond",
         "Games": "18",
-        "Minutes": "2,007",
+        "Minutes": "2007",
         "Points": "243",
         "Goals": "35",
         "Behinds": "33",
@@ -6720,10 +7056,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Lester_520928",
         "Player": "R. Lester",
         "Team": "Brisbane Lions",
         "Games": "17",
-        "Minutes": "1,656",
+        "Minutes": "1656",
         "Points": "6",
         "Goals": "1",
         "Behinds": "0",
@@ -6740,10 +7077,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Petrevski-Seton_510738",
         "Player": "S. Petrevski-Seton",
         "Team": "Carlton",
         "Games": "14",
-        "Minutes": "1,072",
+        "Minutes": "1072",
         "Points": "9",
         "Goals": "1",
         "Behinds": "3",
@@ -6760,10 +7098,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "King_159657",
         "Player": "M. King",
         "Team": "St Kilda",
         "Games": "20",
-        "Minutes": "2,029",
+        "Minutes": "2029",
         "Points": "258",
         "Goals": "38",
         "Behinds": "30",
@@ -6780,10 +7119,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "McStay_717976",
         "Player": "D. McStay",
         "Team": "Brisbane Lions",
         "Games": "19",
-        "Minutes": "1,944",
+        "Minutes": "1944",
         "Points": "178",
         "Goals": "28",
         "Behinds": "10",
@@ -6800,51 +7140,54 @@
         "50m Penalties": "1"
     },
     {
-        "Player": "D. Robertson",
-        "Team": "Brisbane Lions",
-        "Games": "16",
-        "Minutes": "1,398",
-        "Points": "26",
-        "Goals": "4",
-        "Behinds": "2",
-        "Disposals": "210",
-        "Handballs": "100",
-        "Kicks": "110",
-        "Marks": "53",
+        "ID": "Murphy_952076",
+        "Player": "M. Murphy",
+        "Team": "Carlton",
+        "Games": "15",
+        "Minutes": "1099",
+        "Points": "52",
+        "Goals": "8",
+        "Behinds": "4",
+        "Disposals": "191",
+        "Handballs": "76",
+        "Kicks": "115",
+        "Marks": "47",
         "Hitouts": "0",
         "Clearances": "18",
-        "Tackles": "67",
+        "Tackles": "24",
         "Rushed Behinds": "0",
-        "Frees For": "10",
-        "Frees Against": "9",
+        "Frees For": "8",
+        "Frees Against": "4",
         "50m Penalties": "0"
     },
     {
-        "Player": "W. Hayward",
-        "Team": "Sydney Swans",
-        "Games": "20",
-        "Minutes": "1,884",
-        "Points": "183",
-        "Goals": "28",
-        "Behinds": "15",
-        "Disposals": "208",
-        "Handballs": "74",
-        "Kicks": "134",
-        "Marks": "81",
+        "ID": "Flanders_866106",
+        "Player": "S. Flanders",
+        "Team": "Gold Coast",
+        "Games": "16",
+        "Minutes": "1301",
+        "Points": "29",
+        "Goals": "4",
+        "Behinds": "5",
+        "Disposals": "189",
+        "Handballs": "93",
+        "Kicks": "96",
+        "Marks": "46",
         "Hitouts": "0",
-        "Clearances": "5",
-        "Tackles": "60",
+        "Clearances": "19",
+        "Tackles": "62",
         "Rushed Behinds": "0",
-        "Frees For": "15",
-        "Frees Against": "18",
-        "50m Penalties": "2"
+        "Frees For": "22",
+        "Frees Against": "8",
+        "50m Penalties": "0"
     },
     {
-        "Player": "X. Duursma",
-        "Team": "Port Adelaide",
+        "ID": "McDonald_213034",
+        "Player": "L. McDonald",
+        "Team": "Nth Melbourne",
         "Games": "11",
-        "Minutes": "1,071",
-        "Points": "21",
+        "Minutes": "998",
+        "Points": "2",
         "Goals": "0",
         "Behinds": "2",
         "Disposals": "189",
@@ -6860,6 +7203,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Cousins_840610",
         "Player": "J. Cousins",
         "Team": "Hawthorn",
         "Games": "10",
@@ -6880,10 +7224,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Battle_317260",
         "Player": "J. Battle",
         "Team": "St Kilda",
         "Games": "16",
-        "Minutes": "1,247",
+        "Minutes": "1247",
         "Points": "25",
         "Goals": "3",
         "Behinds": "7",
@@ -6900,10 +7245,11 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "Jones_413045",
         "Player": "C. Jones",
         "Team": "Adelaide",
         "Games": "15",
-        "Minutes": "1,336",
+        "Minutes": "1336",
         "Points": "9",
         "Goals": "1",
         "Behinds": "3",
@@ -6920,10 +7266,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Sparrow_868438",
         "Player": "T. Sparrow",
         "Team": "Melbourne",
         "Games": "21",
-        "Minutes": "1,170",
+        "Minutes": "1170",
         "Points": "46",
         "Goals": "7",
         "Behinds": "4",
@@ -6940,10 +7287,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "McKay_861232",
         "Player": "H. McKay",
         "Team": "Carlton",
         "Games": "19",
-        "Minutes": "2,015",
+        "Minutes": "2015",
         "Points": "381",
         "Goals": "58",
         "Behinds": "33",
@@ -6960,10 +7308,11 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "Logue_916164",
         "Player": "G. Logue",
         "Team": "Fremantle",
         "Games": "16",
-        "Minutes": "1,759",
+        "Minutes": "1759",
         "Points": "0",
         "Goals": "0",
         "Behinds": "0",
@@ -6980,10 +7329,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Scott_303629",
         "Player": "A. Scott",
         "Team": "Western Bulldogs",
         "Games": "21",
-        "Minutes": "1,654",
+        "Minutes": "1654",
         "Points": "68",
         "Goals": "10",
         "Behinds": "8",
@@ -7000,10 +7350,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Balta_125644",
         "Player": "N. Balta",
         "Team": "Richmond",
         "Games": "14",
-        "Minutes": "1,336",
+        "Minutes": "1336",
         "Points": "13",
         "Goals": "2",
         "Behinds": "1",
@@ -7020,10 +7371,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Bramble_919693",
         "Player": "L. Bramble",
         "Team": "Hawthorn",
         "Games": "10",
-        "Minutes": "1,005",
+        "Minutes": "1005",
         "Points": "9",
         "Goals": "1",
         "Behinds": "3",
@@ -7040,10 +7392,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Cordy_373257",
         "Player": "Z. Cordy",
         "Team": "Western Bulldogs",
         "Games": "19",
-        "Minutes": "2,269",
+        "Minutes": "2269",
         "Points": "0",
         "Goals": "0",
         "Behinds": "0",
@@ -7060,10 +7413,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Fox_385464",
         "Player": "R. Fox",
         "Team": "Sydney Swans",
         "Games": "15",
-        "Minutes": "1,254",
+        "Minutes": "1254",
         "Points": "0",
         "Goals": "0",
         "Behinds": "0",
@@ -7080,10 +7434,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Langdon_338551",
         "Player": "Z. Langdon",
         "Team": "West Coast",
         "Games": "17",
-        "Minutes": "1,311",
+        "Minutes": "1311",
         "Points": "43",
         "Goals": "6",
         "Behinds": "7",
@@ -7100,10 +7455,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Betts_355475",
         "Player": "E. Betts",
         "Team": "Carlton",
         "Games": "19",
-        "Minutes": "1,845",
+        "Minutes": "1845",
         "Points": "178",
         "Goals": "27",
         "Behinds": "16",
@@ -7120,10 +7476,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Ceglar_588717",
         "Player": "J. Ceglar",
         "Team": "Hawthorn",
         "Games": "12",
-        "Minutes": "1,052",
+        "Minutes": "1052",
         "Points": "14",
         "Goals": "2",
         "Behinds": "2",
@@ -7140,10 +7497,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "King_211960",
         "Player": "B. King",
         "Team": "Gold Coast",
         "Games": "22",
-        "Minutes": "2,398",
+        "Minutes": "2398",
         "Points": "307",
         "Goals": "47",
         "Behinds": "25",
@@ -7160,10 +7518,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "McKenzie_896926",
         "Player": "D. McKenzie",
         "Team": "St Kilda",
         "Games": "12",
-        "Minutes": "1,035",
+        "Minutes": "1035",
         "Points": "30",
         "Goals": "5",
         "Behinds": "0",
@@ -7180,10 +7539,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "O'Halloran_149722",
         "Player": "X. O'Halloran",
         "Team": "GWS Giants",
         "Games": "17",
-        "Minutes": "1,393",
+        "Minutes": "1393",
         "Points": "33",
         "Goals": "5",
         "Behinds": "3",
@@ -7200,6 +7560,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Cutler_533826",
         "Player": "T. Cutler",
         "Team": "Essendon",
         "Games": "13",
@@ -7220,10 +7581,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Fantasia_534177",
         "Player": "O. Fantasia",
         "Team": "Port Adelaide",
         "Games": "15",
-        "Minutes": "1,448",
+        "Minutes": "1448",
         "Points": "191",
         "Goals": "28",
         "Behinds": "23",
@@ -7240,10 +7602,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Kennedy_559402",
         "Player": "J. Kennedy",
         "Team": "West Coast",
         "Games": "18",
-        "Minutes": "1,829",
+        "Minutes": "1829",
         "Points": "267",
         "Goals": "41",
         "Behinds": "21",
@@ -7260,10 +7623,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Daniels_477815",
         "Player": "B. Daniels",
         "Team": "GWS Giants",
         "Games": "13",
-        "Minutes": "1,118",
+        "Minutes": "1118",
         "Points": "16",
         "Goals": "2",
         "Behinds": "4",
@@ -7280,10 +7644,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Petruccelle_192275",
         "Player": "J. Petruccelle",
         "Team": "West Coast",
         "Games": "17",
-        "Minutes": "1,408",
+        "Minutes": "1408",
         "Points": "104",
         "Goals": "16",
         "Behinds": "8",
@@ -7300,10 +7665,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Taberner_523189",
         "Player": "M. Taberner",
         "Team": "Fremantle",
         "Games": "16",
-        "Minutes": "1,701",
+        "Minutes": "1701",
         "Points": "239",
         "Goals": "37",
         "Behinds": "17",
@@ -7320,10 +7686,11 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "Murphy_493890",
         "Player": "L. Murphy",
         "Team": "Adelaide",
         "Games": "15",
-        "Minutes": "1,346",
+        "Minutes": "1346",
         "Points": "69",
         "Goals": "9",
         "Behinds": "15",
@@ -7340,10 +7707,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Wood_367663",
         "Player": "E. Wood",
         "Team": "Western Bulldogs",
         "Games": "15",
-        "Minutes": "1,443",
+        "Minutes": "1443",
         "Points": "12",
         "Goals": "2",
         "Behinds": "0",
@@ -7360,10 +7728,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Cameron_613159",
         "Player": "J. Cameron",
         "Team": "Geelong",
         "Games": "15",
-        "Minutes": "1,519",
+        "Minutes": "1519",
         "Points": "250",
         "Goals": "39",
         "Behinds": "16",
@@ -7380,10 +7749,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Burgess_413349",
         "Player": "C. Burgess",
         "Team": "Gold Coast",
         "Games": "19",
-        "Minutes": "1,819",
+        "Minutes": "1819",
         "Points": "70",
         "Goals": "10",
         "Behinds": "10",
@@ -7400,10 +7770,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Brown_298016",
         "Player": "C. Brown",
         "Team": "Collingwood",
         "Games": "15",
-        "Minutes": "1,062",
+        "Minutes": "1062",
         "Points": "24",
         "Goals": "3",
         "Behinds": "6",
@@ -7420,10 +7791,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Hamill_704384",
         "Player": "W. Hamill",
         "Team": "Adelaide",
         "Games": "17",
-        "Minutes": "1,468",
+        "Minutes": "1468",
         "Points": "0",
         "Goals": "0",
         "Behinds": "0",
@@ -7440,10 +7812,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Waterman_857607",
         "Player": "J. Waterman",
         "Team": "West Coast",
         "Games": "14",
-        "Minutes": "1,302",
+        "Minutes": "1302",
         "Points": "86",
         "Goals": "13",
         "Behinds": "8",
@@ -7460,10 +7833,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Highmore_448453",
         "Player": "T. Highmore",
         "Team": "St Kilda",
         "Games": "13",
-        "Minutes": "1,058",
+        "Minutes": "1058",
         "Points": "0",
         "Goals": "0",
         "Behinds": "0",
@@ -7480,10 +7854,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Buckley_845101",
         "Player": "J. Buckley",
         "Team": "GWS Giants",
         "Games": "15",
-        "Minutes": "1,511",
+        "Minutes": "1511",
         "Points": "2",
         "Goals": "0",
         "Behinds": "2",
@@ -7500,10 +7875,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Francis_349809",
         "Player": "A. Francis",
         "Team": "Essendon",
         "Games": "15",
-        "Minutes": "1,496",
+        "Minutes": "1496",
         "Points": "18",
         "Goals": "2",
         "Behinds": "6",
@@ -7520,10 +7896,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Hipwood_432039",
         "Player": "E. Hipwood",
         "Team": "Brisbane Lions",
         "Games": "16",
-        "Minutes": "1,754",
+        "Minutes": "1754",
         "Points": "176",
         "Goals": "26",
         "Behinds": "20",
@@ -7540,6 +7917,7 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "Mathieson_649044",
         "Player": "R. Mathieson",
         "Team": "Brisbane Lions",
         "Games": "15",
@@ -7560,6 +7938,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Rowell_897656",
         "Player": "M. Rowell",
         "Team": "Gold Coast",
         "Games": "12",
@@ -7580,10 +7959,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Brander_246502",
         "Player": "J. Brander",
         "Team": "West Coast",
         "Games": "11",
-        "Minutes": "1,089",
+        "Minutes": "1089",
         "Points": "36",
         "Goals": "5",
         "Behinds": "6",
@@ -7600,10 +7980,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Lobb_323667",
         "Player": "R. Lobb",
         "Team": "Fremantle",
         "Games": "13",
-        "Minutes": "1,509",
+        "Minutes": "1509",
         "Points": "139",
         "Goals": "20",
         "Behinds": "19",
@@ -7620,10 +8001,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Young_338190",
         "Player": "L. Young",
         "Team": "Nth Melbourne",
         "Games": "15",
-        "Minutes": "1,266",
+        "Minutes": "1266",
         "Points": "2",
         "Goals": "0",
         "Behinds": "2",
@@ -7640,10 +8022,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Crowden_191655",
         "Player": "M. Crowden",
         "Team": "Fremantle",
         "Games": "16",
-        "Minutes": "1,304",
+        "Minutes": "1304",
         "Points": "37",
         "Goals": "5",
         "Behinds": "7",
@@ -7660,10 +8043,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Hannan_596146",
         "Player": "M. Hannan",
         "Team": "Western Bulldogs",
         "Games": "17",
-        "Minutes": "1,684",
+        "Minutes": "1684",
         "Points": "97",
         "Goals": "14",
         "Behinds": "13",
@@ -7680,10 +8064,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Smith_930411",
         "Player": "R. Smith",
         "Team": "Western Bulldogs",
         "Games": "14",
-        "Minutes": "1,256",
+        "Minutes": "1256",
         "Points": "22",
         "Goals": "3",
         "Behinds": "4",
@@ -7700,10 +8085,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Cottrell_661663",
         "Player": "M. Cottrell",
         "Team": "Carlton",
         "Games": "14",
-        "Minutes": "1,210",
+        "Minutes": "1210",
         "Points": "20",
         "Goals": "3",
         "Behinds": "2",
@@ -7720,10 +8106,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Poulter_601381",
         "Player": "C. Poulter",
         "Team": "Collingwood",
         "Games": "11",
-        "Minutes": "1,021",
+        "Minutes": "1021",
         "Points": "17",
         "Goals": "2",
         "Behinds": "5",
@@ -7740,6 +8127,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Sharp_525376",
         "Player": "J. Sharp",
         "Team": "Gold Coast",
         "Games": "9",
@@ -7760,10 +8148,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Koschitzke_645040",
         "Player": "J. Koschitzke",
         "Team": "Hawthorn",
         "Games": "20",
-        "Minutes": "2,044",
+        "Minutes": "2044",
         "Points": "181",
         "Goals": "27",
         "Behinds": "19",
@@ -7780,10 +8169,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Coleman_312307",
         "Player": "K. Coleman",
         "Team": "Brisbane Lions",
         "Games": "18",
-        "Minutes": "1,312",
+        "Minutes": "1312",
         "Points": "41",
         "Goals": "6",
         "Behinds": "5",
@@ -7800,10 +8190,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Petty_745274",
         "Player": "H. Petty",
         "Team": "Melbourne",
         "Games": "19",
-        "Minutes": "2,070",
+        "Minutes": "2070",
         "Points": "0",
         "Goals": "0",
         "Behinds": "0",
@@ -7820,6 +8211,7 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Shuey_914340",
         "Player": "L. Shuey",
         "Team": "West Coast",
         "Games": "7",
@@ -7840,10 +8232,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "De_168741",
         "Player": "M. De Boer",
         "Team": "GWS Giants",
         "Games": "11",
-        "Minutes": "1,048",
+        "Minutes": "1048",
         "Points": "14",
         "Goals": "2",
         "Behinds": "2",
@@ -7860,10 +8253,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Guthrie_392228",
         "Player": "Z. Guthrie",
         "Team": "Geelong",
         "Games": "13",
-        "Minutes": "1,012",
+        "Minutes": "1012",
         "Points": "1",
         "Goals": "0",
         "Behinds": "1",
@@ -7880,10 +8274,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Prior_544401",
         "Player": "J. Prior",
         "Team": "Brisbane Lions",
         "Games": "18",
-        "Minutes": "1,322",
+        "Minutes": "1322",
         "Points": "40",
         "Goals": "6",
         "Behinds": "4",
@@ -7900,10 +8295,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Weightman_986592",
         "Player": "C. Weightman",
         "Team": "Western Bulldogs",
         "Games": "16",
-        "Minutes": "1,500",
+        "Minutes": "1500",
         "Points": "169",
         "Goals": "26",
         "Behinds": "13",
@@ -7920,6 +8316,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Crozier_244212",
         "Player": "H. Crozier",
         "Team": "Western Bulldogs",
         "Games": "10",
@@ -7940,6 +8337,7 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Fisher_157210",
         "Player": "Z. Fisher",
         "Team": "Carlton",
         "Games": "10",
@@ -7960,6 +8358,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Ross_657866",
         "Player": "J. Ross",
         "Team": "Richmond",
         "Games": "15",
@@ -7980,6 +8379,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "MacPherson_907604",
         "Player": "D. MacPherson",
         "Team": "Gold Coast",
         "Games": "11",
@@ -8000,6 +8400,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Gibbons_866985",
         "Player": "M. Gibbons",
         "Team": "Carlton",
         "Games": "11",
@@ -8020,6 +8421,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Shiel_188059",
         "Player": "D. Shiel",
         "Team": "Essendon",
         "Games": "8",
@@ -8040,10 +8442,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Hill_329052",
         "Player": "I. Hill",
         "Team": "GWS Giants",
         "Games": "17",
-        "Minutes": "1,505",
+        "Minutes": "1505",
         "Points": "96",
         "Goals": "14",
         "Behinds": "12",
@@ -8060,10 +8463,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Berry_184365",
         "Player": "S. Berry",
         "Team": "Adelaide",
         "Games": "17",
-        "Minutes": "1,488",
+        "Minutes": "1488",
         "Points": "39",
         "Goals": "5",
         "Behinds": "9",
@@ -8080,10 +8484,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Henry_594229",
         "Player": "L. Henry",
         "Team": "Fremantle",
         "Games": "17",
-        "Minutes": "1,481",
+        "Minutes": "1481",
         "Points": "69",
         "Goals": "10",
         "Behinds": "9",
@@ -8100,6 +8505,7 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "Lipinski_224036",
         "Player": "P. Lipinski",
         "Team": "Western Bulldogs",
         "Games": "11",
@@ -8120,10 +8526,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Phillips_432039",
         "Player": "W. Phillips",
         "Team": "Nth Melbourne",
         "Games": "16",
-        "Minutes": "1,067",
+        "Minutes": "1067",
         "Points": "22",
         "Goals": "3",
         "Behinds": "4",
@@ -8140,10 +8547,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Thilthorpe_180698",
         "Player": "R. Thilthorpe",
         "Team": "Adelaide",
         "Games": "14",
-        "Minutes": "1,390",
+        "Minutes": "1390",
         "Points": "118",
         "Goals": "18",
         "Behinds": "10",
@@ -8160,6 +8568,7 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Hartlett_909428",
         "Player": "H. Hartlett",
         "Team": "Port Adelaide",
         "Games": "10",
@@ -8180,6 +8589,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Bytel_991486",
         "Player": "J. Bytel",
         "Team": "St Kilda",
         "Games": "13",
@@ -8200,6 +8610,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Bianco_373777",
         "Player": "T. Bianco",
         "Team": "Collingwood",
         "Games": "12",
@@ -8220,10 +8631,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Pittonet_145452",
         "Player": "M. Pittonet",
         "Team": "Carlton",
         "Games": "13",
-        "Minutes": "1,345",
+        "Minutes": "1345",
         "Points": "35",
         "Goals": "5",
         "Behinds": "5",
@@ -8240,10 +8652,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Switkowski_886126",
         "Player": "S. Switkowski",
         "Team": "Fremantle",
         "Games": "12",
-        "Minutes": "1,079",
+        "Minutes": "1079",
         "Points": "63",
         "Goals": "9",
         "Behinds": "9",
@@ -8260,6 +8673,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Farrar_125236",
         "Player": "J. Farrar",
         "Team": "Gold Coast",
         "Games": "10",
@@ -8280,6 +8694,7 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "Tarrant_879711",
         "Player": "R. Tarrant",
         "Team": "Nth Melbourne",
         "Games": "10",
@@ -8300,10 +8715,11 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "Long_381937",
         "Player": "B. Long",
         "Team": "St Kilda",
         "Games": "15",
-        "Minutes": "1,257",
+        "Minutes": "1257",
         "Points": "21",
         "Goals": "2",
         "Behinds": "9",
@@ -8320,10 +8736,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Mansell_212751",
         "Player": "R. Mansell",
         "Team": "Richmond",
         "Games": "13",
-        "Minutes": "1,087",
+        "Minutes": "1087",
         "Points": "6",
         "Goals": "1",
         "Behinds": "0",
@@ -8340,10 +8757,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Murphy_818828",
         "Player": "N. Murphy",
         "Team": "Collingwood",
         "Games": "15",
-        "Minutes": "1,144",
+        "Minutes": "1144",
         "Points": "9",
         "Goals": "1",
         "Behinds": "3",
@@ -8360,10 +8778,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Ryan_208936",
         "Player": "L. Ryan",
         "Team": "West Coast",
         "Games": "14",
-        "Minutes": "1,347",
+        "Minutes": "1347",
         "Points": "154",
         "Goals": "24",
         "Behinds": "10",
@@ -8380,10 +8799,11 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "Flynn_297546",
         "Player": "M. Flynn",
         "Team": "GWS Giants",
         "Games": "12",
-        "Minutes": "1,072",
+        "Minutes": "1072",
         "Points": "32",
         "Goals": "5",
         "Behinds": "2",
@@ -8400,10 +8820,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Brown_986126",
         "Player": "L. Brown",
         "Team": "Adelaide",
         "Games": "11",
-        "Minutes": "1,034",
+        "Minutes": "1034",
         "Points": "0",
         "Goals": "0",
         "Behinds": "0",
@@ -8420,10 +8841,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Corbett_932282",
         "Player": "J. Corbett",
         "Team": "Gold Coast",
         "Games": "16",
-        "Minutes": "1,370",
+        "Minutes": "1370",
         "Points": "149",
         "Goals": "23",
         "Behinds": "11",
@@ -8440,10 +8862,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Cox_971085",
         "Player": "B. Cox",
         "Team": "Fremantle",
         "Games": "12",
-        "Minutes": "1,317",
+        "Minutes": "1317",
         "Points": "0",
         "Goals": "0",
         "Behinds": "0",
@@ -8460,10 +8883,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Lewis_959023",
         "Player": "M. Lewis",
         "Team": "Hawthorn",
         "Games": "14",
-        "Minutes": "1,446",
+        "Minutes": "1446",
         "Points": "141",
         "Goals": "22",
         "Behinds": "9",
@@ -8480,10 +8904,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Mumford_739271",
         "Player": "S. Mumford",
         "Team": "GWS Giants",
         "Games": "14",
-        "Minutes": "1,323",
+        "Minutes": "1323",
         "Points": "24",
         "Goals": "4",
         "Behinds": "0",
@@ -8500,10 +8925,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Waterman_942480",
         "Player": "A. Waterman",
         "Team": "Essendon",
         "Games": "14",
-        "Minutes": "1,267",
+        "Minutes": "1267",
         "Points": "110",
         "Goals": "17",
         "Behinds": "8",
@@ -8520,10 +8946,11 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "Finlayson_371842",
         "Player": "J. Finlayson",
         "Team": "GWS Giants",
         "Games": "13",
-        "Minutes": "1,211",
+        "Minutes": "1211",
         "Points": "147",
         "Goals": "23",
         "Behinds": "9",
@@ -8540,6 +8967,7 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Hanrahan_724227",
         "Player": "O. Hanrahan",
         "Team": "Hawthorn",
         "Games": "13",
@@ -8560,10 +8988,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Clurey_898655",
         "Player": "T. Clurey",
         "Team": "Port Adelaide",
         "Games": "11",
-        "Minutes": "1,133",
+        "Minutes": "1133",
         "Points": "0",
         "Goals": "0",
         "Behinds": "0",
@@ -8580,10 +9009,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Martin_488944",
         "Player": "J. Martin",
         "Team": "Carlton",
         "Games": "11",
-        "Minutes": "1,022",
+        "Minutes": "1022",
         "Points": "54",
         "Goals": "8",
         "Behinds": "6",
@@ -8600,6 +9030,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Howe_891522",
         "Player": "J. Howe",
         "Team": "Collingwood",
         "Games": "8",
@@ -8620,6 +9051,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Hughes_224443",
         "Player": "E. Hughes",
         "Team": "Fremantle",
         "Games": "8",
@@ -8640,6 +9072,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Berry_683433",
         "Player": "J. Berry",
         "Team": "Brisbane Lions",
         "Games": "11",
@@ -8660,10 +9093,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Fogarty_765493",
         "Player": "D. Fogarty",
         "Team": "Adelaide",
         "Games": "17",
-        "Minutes": "1,545",
+        "Minutes": "1545",
         "Points": "156",
         "Goals": "24",
         "Behinds": "12",
@@ -8680,6 +9114,7 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "Conca_264881",
         "Player": "R. Conca",
         "Team": "Fremantle",
         "Games": "10",
@@ -8700,6 +9135,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Anderson_636413",
         "Player": "J. Anderson",
         "Team": "Nth Melbourne",
         "Games": "7",
@@ -8720,6 +9156,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Collier-Dawkins_269575",
         "Player": "R. Collier-Dawkins",
         "Team": "Richmond",
         "Games": "9",
@@ -8740,10 +9177,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Draper_537058",
         "Player": "S. Draper",
         "Team": "Essendon",
         "Games": "13",
-        "Minutes": "1,215",
+        "Minutes": "1215",
         "Points": "17",
         "Goals": "2",
         "Behinds": "5",
@@ -8760,6 +9198,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Kennedy_577209",
         "Player": "A. Kennedy",
         "Team": "GWS Giants",
         "Games": "9",
@@ -8780,10 +9219,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "McAdam_943515",
         "Player": "S. McAdam",
         "Team": "Adelaide",
         "Games": "15",
-        "Minutes": "1,349",
+        "Minutes": "1349",
         "Points": "161",
         "Goals": "25",
         "Behinds": "11",
@@ -8800,6 +9240,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Young_733604",
         "Player": "H. Young",
         "Team": "Fremantle",
         "Games": "8",
@@ -8820,10 +9261,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Brown_365678",
         "Player": "B. Brown",
         "Team": "Melbourne",
         "Games": "13",
-        "Minutes": "1,297",
+        "Minutes": "1297",
         "Points": "163",
         "Goals": "25",
         "Behinds": "13",
@@ -8840,10 +9282,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Fullarton_673534",
         "Player": "T. Fullarton",
         "Team": "Brisbane Lions",
         "Games": "12",
-        "Minutes": "1,142",
+        "Minutes": "1142",
         "Points": "19",
         "Goals": "3",
         "Behinds": "1",
@@ -8860,6 +9303,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Setterfield_327910",
         "Player": "W. Setterfield",
         "Team": "Carlton",
         "Games": "8",
@@ -8880,6 +9324,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Watson_448088",
         "Player": "T. Watson",
         "Team": "Fremantle",
         "Games": "11",
@@ -8900,10 +9345,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Williamson_759275",
         "Player": "T. Williamson",
         "Team": "Carlton",
         "Games": "11",
-        "Minutes": "1,061",
+        "Minutes": "1061",
         "Points": "15",
         "Goals": "2",
         "Behinds": "3",
@@ -8920,10 +9366,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "De_702821",
         "Player": "T. De Koning",
         "Team": "Carlton",
         "Games": "13",
-        "Minutes": "1,162",
+        "Minutes": "1162",
         "Points": "46",
         "Goals": "7",
         "Behinds": "4",
@@ -8940,6 +9387,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Farrell_685513",
         "Player": "K. Farrell",
         "Team": "Port Adelaide",
         "Games": "10",
@@ -8960,10 +9408,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Reid_867887",
         "Player": "S. Reid",
         "Team": "GWS Giants",
         "Games": "15",
-        "Minutes": "1,435",
+        "Minutes": "1435",
         "Points": "28",
         "Goals": "4",
         "Behinds": "4",
@@ -8980,10 +9429,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Payne_926167",
         "Player": "J. Payne",
         "Team": "Brisbane Lions",
         "Games": "10",
-        "Minutes": "1,004",
+        "Minutes": "1004",
         "Points": "0",
         "Goals": "0",
         "Behinds": "0",
@@ -9000,6 +9450,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Bowey_462405",
         "Player": "J. Bowey",
         "Team": "Melbourne",
         "Games": "7",
@@ -9020,6 +9471,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Holmes_251443",
         "Player": "M. Holmes",
         "Team": "Geelong",
         "Games": "12",
@@ -9040,10 +9492,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Ryder_214658",
         "Player": "P. Ryder",
         "Team": "St Kilda",
         "Games": "12",
-        "Minutes": "1,066",
+        "Minutes": "1066",
         "Points": "31",
         "Goals": "5",
         "Behinds": "1",
@@ -9060,10 +9513,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Jones_202282",
         "Player": "H. Jones",
         "Team": "Essendon",
         "Games": "16",
-        "Minutes": "1,504",
+        "Minutes": "1504",
         "Points": "126",
         "Goals": "20",
         "Behinds": "6",
@@ -9080,6 +9534,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Stack_141225",
         "Player": "S. Stack",
         "Team": "Richmond",
         "Games": "7",
@@ -9100,6 +9555,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Blakely_343330",
         "Player": "C. Blakely",
         "Team": "Fremantle",
         "Games": "13",
@@ -9120,6 +9576,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Hogan_791532",
         "Player": "J. Hogan",
         "Team": "GWS Giants",
         "Games": "9",
@@ -9140,6 +9597,7 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Macrae_464807",
         "Player": "F. Macrae",
         "Team": "Collingwood",
         "Games": "9",
@@ -9160,10 +9618,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Owies_247258",
         "Player": "M. Owies",
         "Team": "Carlton",
         "Games": "13",
-        "Minutes": "1,147",
+        "Minutes": "1147",
         "Points": "107",
         "Goals": "15",
         "Behinds": "17",
@@ -9180,10 +9639,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Ratugolea_707925",
         "Player": "E. Ratugolea",
         "Team": "Geelong",
         "Games": "15",
-        "Minutes": "1,372",
+        "Minutes": "1372",
         "Points": "71",
         "Goals": "11",
         "Behinds": "5",
@@ -9200,10 +9660,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Treacy_664153",
         "Player": "J. Treacy",
         "Team": "Fremantle",
         "Games": "15",
-        "Minutes": "1,543",
+        "Minutes": "1543",
         "Points": "88",
         "Goals": "13",
         "Behinds": "10",
@@ -9220,6 +9681,7 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Caddy_529166",
         "Player": "J. Caddy",
         "Team": "Richmond",
         "Games": "9",
@@ -9240,6 +9702,7 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Campbell_898427",
         "Player": "B. Campbell",
         "Team": "Sydney Swans",
         "Games": "8",
@@ -9260,6 +9723,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Clark_211521",
         "Player": "J. Clark",
         "Team": "Geelong",
         "Games": "11",
@@ -9280,10 +9744,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Casboult_561114",
         "Player": "L. Casboult",
         "Team": "Carlton",
         "Games": "13",
-        "Minutes": "1,309",
+        "Minutes": "1309",
         "Points": "53",
         "Goals": "8",
         "Behinds": "5",
@@ -9300,10 +9765,11 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "Davis_115488",
         "Player": "P. Davis",
         "Team": "GWS Giants",
         "Games": "11",
-        "Minutes": "1,032",
+        "Minutes": "1032",
         "Points": "0",
         "Goals": "0",
         "Behinds": "0",
@@ -9320,6 +9786,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "McNeil_838187",
         "Player": "L. McNeil",
         "Team": "Western Bulldogs",
         "Games": "13",
@@ -9340,6 +9807,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Nash_911387",
         "Player": "C. Nash",
         "Team": "Hawthorn",
         "Games": "8",
@@ -9360,6 +9828,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Lonie_943348",
         "Player": "J. Lonie",
         "Team": "St Kilda",
         "Games": "11",
@@ -9380,6 +9849,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Reid_941351",
         "Player": "S. Reid",
         "Team": "Sydney Swans",
         "Games": "10",
@@ -9400,6 +9870,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Bonar_866405",
         "Player": "A. Bonar",
         "Team": "Nth Melbourne",
         "Games": "10",
@@ -9420,6 +9891,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Melksham_185233",
         "Player": "J. Melksham",
         "Team": "Melbourne",
         "Games": "12",
@@ -9440,6 +9912,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Ruscoe_487949",
         "Player": "T. Ruscoe",
         "Team": "Collingwood",
         "Games": "9",
@@ -9460,6 +9933,7 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Walker_853019",
         "Player": "B. Walker",
         "Team": "Fremantle",
         "Games": "10",
@@ -9480,6 +9954,7 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Coniglio_177038",
         "Player": "S. Coniglio",
         "Team": "GWS Giants",
         "Games": "7",
@@ -9500,10 +9975,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Edwards_588799",
         "Player": "H. Edwards",
         "Team": "West Coast",
         "Games": "10",
-        "Minutes": "1,068",
+        "Minutes": "1068",
         "Points": "0",
         "Goals": "0",
         "Behinds": "0",
@@ -9520,6 +9996,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Garcia_477437",
         "Player": "R. Garcia",
         "Team": "Western Bulldogs",
         "Games": "9",
@@ -9540,6 +10017,7 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "Menadue_504473",
         "Player": "C. Menadue",
         "Team": "Nth Melbourne",
         "Games": "7",
@@ -9560,10 +10038,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "McLean_317267",
         "Player": "H. McLean",
         "Team": "Sydney Swans",
         "Games": "12",
-        "Minutes": "1,202",
+        "Minutes": "1202",
         "Points": "72",
         "Goals": "11",
         "Behinds": "6",
@@ -9580,6 +10059,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Bruhn_345498",
         "Player": "T. Bruhn",
         "Team": "GWS Giants",
         "Games": "13",
@@ -9600,10 +10080,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Jones_279720",
         "Player": "J. Jones",
         "Team": "West Coast",
         "Games": "15",
-        "Minutes": "1,032",
+        "Minutes": "1032",
         "Points": "69",
         "Goals": "11",
         "Behinds": "3",
@@ -9620,6 +10101,7 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Campbell_792232",
         "Player": "T. Campbell",
         "Team": "Nth Melbourne",
         "Games": "9",
@@ -9640,6 +10122,7 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Chol_136071",
         "Player": "M. Chol",
         "Team": "Richmond",
         "Games": "10",
@@ -9660,6 +10143,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Edwards_173993",
         "Player": "L. Edwards",
         "Team": "West Coast",
         "Games": "8",
@@ -9680,6 +10164,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Day_916920",
         "Player": "W. Day",
         "Team": "Hawthorn",
         "Games": "5",
@@ -9700,6 +10185,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Durham_240516",
         "Player": "S. Durham",
         "Team": "Essendon",
         "Games": "7",
@@ -9720,6 +10206,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Gardiner_902191",
         "Player": "D. Gardiner",
         "Team": "Brisbane Lions",
         "Games": "9",
@@ -9740,6 +10227,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Madden_383870",
         "Player": "J. Madden",
         "Team": "Brisbane Lions",
         "Games": "9",
@@ -9760,6 +10248,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Young_689918",
         "Player": "L. Young",
         "Team": "Western Bulldogs",
         "Games": "9",
@@ -9780,6 +10269,7 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Brockman_157339",
         "Player": "T. Brockman",
         "Team": "Hawthorn",
         "Games": "11",
@@ -9800,10 +10290,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Frampton_893654",
         "Player": "B. Frampton",
         "Team": "Adelaide",
         "Games": "10",
-        "Minutes": "1,010",
+        "Minutes": "1010",
         "Points": "23",
         "Goals": "2",
         "Behinds": "11",
@@ -9820,6 +10311,7 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "Kent_844288",
         "Player": "D. Kent",
         "Team": "St Kilda",
         "Games": "7",
@@ -9840,6 +10332,7 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Lazzaro_272695",
         "Player": "C. Lazzaro",
         "Team": "Nth Melbourne",
         "Games": "12",
@@ -9860,6 +10353,7 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Pearce_935278",
         "Player": "A. Pearce",
         "Team": "Fremantle",
         "Games": "10",
@@ -9880,6 +10374,7 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Vandermeer_291057",
         "Player": "L. Vandermeer",
         "Team": "Western Bulldogs",
         "Games": "11",
@@ -9900,6 +10395,7 @@
         "50m Penalties": "3"
     },
     {
+        "ID": "Brown_674903",
         "Player": "T. Brown",
         "Team": "Collingwood",
         "Games": "7",
@@ -9920,6 +10416,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Jones_435342",
         "Player": "N. Jones",
         "Team": "Melbourne",
         "Games": "8",
@@ -9940,6 +10437,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Schache_563513",
         "Player": "J. Schache",
         "Team": "Western Bulldogs",
         "Games": "9",
@@ -9960,6 +10458,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Martin_206986",
         "Player": "S. Martin",
         "Team": "Western Bulldogs",
         "Games": "9",
@@ -9980,6 +10479,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Wood_296604",
         "Player": "M. Wood",
         "Team": "St Kilda",
         "Games": "9",
@@ -10000,6 +10500,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Duman_556536",
         "Player": "T. Duman",
         "Team": "Fremantle",
         "Games": "6",
@@ -10020,6 +10521,7 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Henry_168558",
         "Player": "O. Henry",
         "Team": "Collingwood",
         "Games": "10",
@@ -10040,10 +10542,11 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Murray_264878",
         "Player": "N. Murray",
         "Team": "Adelaide",
         "Games": "13",
-        "Minutes": "1,057",
+        "Minutes": "1057",
         "Points": "7",
         "Goals": "1",
         "Behinds": "1",
@@ -10060,6 +10563,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Atkins_583208",
         "Player": "R. Atkins",
         "Team": "Gold Coast",
         "Games": "8",
@@ -10080,6 +10584,7 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Sier_202151",
         "Player": "B. Sier",
         "Team": "Collingwood",
         "Games": "7",
@@ -10100,6 +10605,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Sproule_436057",
         "Player": "Z. Sproule",
         "Team": "GWS Giants",
         "Games": "10",
@@ -10120,6 +10626,7 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Chapman_840724",
         "Player": "H. Chapman",
         "Team": "Fremantle",
         "Games": "6",
@@ -10140,10 +10647,11 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Graham_953499",
         "Player": "C. Graham",
         "Team": "Gold Coast",
         "Games": "12",
-        "Minutes": "1,166",
+        "Minutes": "1166",
         "Points": "1",
         "Goals": "0",
         "Behinds": "1",
@@ -10160,6 +10668,7 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Coleman-Jones_351602",
         "Player": "C. Coleman-Jones",
         "Team": "Richmond",
         "Games": "8",
@@ -10180,6 +10689,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Connolly_470836",
         "Player": "L. Connolly",
         "Team": "St Kilda",
         "Games": "7",
@@ -10200,6 +10710,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Lienert_257712",
         "Player": "J. Lienert",
         "Team": "Port Adelaide",
         "Games": "5",
@@ -10220,6 +10731,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "O'Neill_438043",
         "Player": "X. O'Neill",
         "Team": "West Coast",
         "Games": "8",
@@ -10240,6 +10752,7 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Tomlinson_565569",
         "Player": "A. Tomlinson",
         "Team": "Melbourne",
         "Games": "7",
@@ -10260,6 +10773,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "McCreery_984762",
         "Player": "B. McCreery",
         "Team": "Collingwood",
         "Games": "13",
@@ -10280,6 +10794,7 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Bosenavulagi_457750",
         "Player": "A. Bosenavulagi",
         "Team": "Nth Melbourne",
         "Games": "8",
@@ -10300,6 +10815,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Jones_805772",
         "Player": "L. Jones",
         "Team": "Port Adelaide",
         "Games": "6",
@@ -10320,6 +10836,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Riccardi_654169",
         "Player": "J. Riccardi",
         "Team": "GWS Giants",
         "Games": "9",
@@ -10340,6 +10857,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Smith_576535",
         "Player": "Z. Smith",
         "Team": "Gold Coast",
         "Games": "9",
@@ -10360,6 +10878,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Zaharakis_616459",
         "Player": "D. Zaharakis",
         "Team": "Essendon",
         "Games": "9",
@@ -10380,6 +10899,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "O'Brien_994932",
         "Player": "L. O'Brien",
         "Team": "Carlton",
         "Games": "5",
@@ -10400,6 +10920,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Keeffe_711212",
         "Player": "L. Keeffe",
         "Team": "GWS Giants",
         "Games": "8",
@@ -10420,6 +10941,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Meek_969221",
         "Player": "L. Meek",
         "Team": "Fremantle",
         "Games": "9",
@@ -10440,6 +10962,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Parker_861045",
         "Player": "M. Parker",
         "Team": "Richmond",
         "Games": "6",
@@ -10460,6 +10983,7 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Buntine_608478",
         "Player": "M. Buntine",
         "Team": "GWS Giants",
         "Games": "8",
@@ -10480,6 +11004,7 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Melican_110276",
         "Player": "L. Melican",
         "Team": "Sydney Swans",
         "Games": "6",
@@ -10500,6 +11025,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Bell_149352",
         "Player": "J. Bell",
         "Team": "Sydney Swans",
         "Games": "12",
@@ -10520,6 +11046,7 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Bewley_326350",
         "Player": "B. Bewley",
         "Team": "Fremantle",
         "Games": "6",
@@ -10540,6 +11067,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Frederick_715610",
         "Player": "M. Frederick",
         "Team": "Port Adelaide",
         "Games": "8",
@@ -10560,6 +11088,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Foley_660108",
         "Player": "L. Foley",
         "Team": "West Coast",
         "Games": "6",
@@ -10580,6 +11109,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Greaves_540644",
         "Player": "D. Greaves",
         "Team": "Hawthorn",
         "Games": "7",
@@ -10600,6 +11130,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Woodcock_744602",
         "Player": "B. Woodcock",
         "Team": "Port Adelaide",
         "Games": "7",
@@ -10620,6 +11151,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Himmelberg_811635",
         "Player": "E. Himmelberg",
         "Team": "Adelaide",
         "Games": "8",
@@ -10640,6 +11172,7 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Mayes_476554",
         "Player": "S. Mayes",
         "Team": "Port Adelaide",
         "Games": "11",
@@ -10660,6 +11193,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Ah_397293",
         "Player": "B. Ah Chee",
         "Team": "West Coast",
         "Games": "6",
@@ -10680,6 +11214,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Frederick_685873",
         "Player": "M. Frederick",
         "Team": "Fremantle",
         "Games": "7",
@@ -10700,6 +11235,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Richards_329869",
         "Player": "E. Richards",
         "Team": "Western Bulldogs",
         "Games": "5",
@@ -10720,6 +11256,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Cox_901857",
         "Player": "M. Cox",
         "Team": "Collingwood",
         "Games": "7",
@@ -10740,6 +11277,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Dow_835154",
         "Player": "T. Dow",
         "Team": "Richmond",
         "Games": "5",
@@ -10760,6 +11298,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Brodie_891626",
         "Player": "W. Brodie",
         "Team": "Gold Coast",
         "Games": "5",
@@ -10780,6 +11319,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Gresham_535020",
         "Player": "J. Gresham",
         "Team": "St Kilda",
         "Games": "3",
@@ -10800,6 +11340,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Polec_894472",
         "Player": "J. Polec",
         "Team": "Nth Melbourne",
         "Games": "5",
@@ -10820,6 +11361,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "West_532809",
         "Player": "C. West",
         "Team": "West Coast",
         "Games": "5",
@@ -10840,6 +11382,7 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Clarke_818287",
         "Player": "D. Clarke",
         "Team": "Essendon",
         "Games": "4",
@@ -10860,6 +11403,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Newcombe_378078",
         "Player": "J. Newcombe",
         "Team": "Hawthorn",
         "Games": "7",
@@ -10880,6 +11424,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Phillips_860094",
         "Player": "A. Phillips",
         "Team": "Essendon",
         "Games": "6",
@@ -10900,6 +11445,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Wallis_317327",
         "Player": "M. Wallis",
         "Team": "Western Bulldogs",
         "Games": "6",
@@ -10920,6 +11466,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Gleeson_204882",
         "Player": "M. Gleeson",
         "Team": "Essendon",
         "Games": "6",
@@ -10940,6 +11487,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Harbrow_909015",
         "Player": "J. Harbrow",
         "Team": "Gold Coast",
         "Games": "4",
@@ -10960,6 +11508,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Xerri_414973",
         "Player": "T. Xerri",
         "Team": "Nth Melbourne",
         "Games": "8",
@@ -10980,6 +11529,7 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Zerk-Thatcher_452979",
         "Player": "B. Zerk-Thatcher",
         "Team": "Essendon",
         "Games": "6",
@@ -11000,6 +11550,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "McDonald_396594",
         "Player": "L. McDonald",
         "Team": "Sydney Swans",
         "Games": "7",
@@ -11020,6 +11571,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Stephens_531513",
         "Player": "D. Stephens",
         "Team": "Sydney Swans",
         "Games": "7",
@@ -11040,6 +11592,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Banfield_232438",
         "Player": "B. Banfield",
         "Team": "Fremantle",
         "Games": "6",
@@ -11060,6 +11613,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Hartley_515161",
         "Player": "M. Hartley",
         "Team": "Hawthorn",
         "Games": "3",
@@ -11080,6 +11634,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Keane_785549",
         "Player": "M. Keane",
         "Team": "Collingwood",
         "Games": "4",
@@ -11100,6 +11655,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "McGovern_536392",
         "Player": "M. McGovern",
         "Team": "Carlton",
         "Games": "5",
@@ -11120,6 +11676,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Amartey_605468",
         "Player": "J. Amartey",
         "Team": "Sydney Swans",
         "Games": "6",
@@ -11140,6 +11697,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Gardner_134329",
         "Player": "R. Gardner",
         "Team": "Western Bulldogs",
         "Games": "9",
@@ -11160,6 +11718,7 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Cuningham_808460",
         "Player": "D. Cuningham",
         "Team": "Carlton",
         "Games": "4",
@@ -11180,6 +11739,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Garner_724391",
         "Player": "T. Garner",
         "Team": "Nth Melbourne",
         "Games": "4",
@@ -11200,6 +11760,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Day_174722",
         "Player": "S. Day",
         "Team": "Gold Coast",
         "Games": "6",
@@ -11220,6 +11781,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Simpson_208486",
         "Player": "S. Simpson",
         "Team": "Geelong",
         "Games": "4",
@@ -11240,6 +11802,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Garthwaite_331405",
         "Player": "R. Garthwaite",
         "Team": "Richmond",
         "Games": "5",
@@ -11260,6 +11823,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Briggs_565994",
         "Player": "K. Briggs",
         "Team": "GWS Giants",
         "Games": "5",
@@ -11280,6 +11844,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Curnow_409649",
         "Player": "C. Curnow",
         "Team": "Carlton",
         "Games": "4",
@@ -11300,6 +11865,7 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Naish_461922",
         "Player": "P. Naish",
         "Team": "Richmond",
         "Games": "6",
@@ -11320,6 +11886,7 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Ralphsmith_211681",
         "Player": "H. Ralphsmith",
         "Team": "Richmond",
         "Games": "6",
@@ -11340,6 +11907,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Reeves_238741",
         "Player": "N. Reeves",
         "Team": "Hawthorn",
         "Games": "5",
@@ -11360,6 +11928,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Wilson_110656",
         "Player": "T. Wilson",
         "Team": "Collingwood",
         "Games": "4",
@@ -11380,6 +11949,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Hunter_479015",
         "Player": "P. Hunter",
         "Team": "St Kilda",
         "Games": "7",
@@ -11400,6 +11970,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Joyce_503531",
         "Player": "D. Joyce",
         "Team": "St Kilda",
         "Games": "5",
@@ -11420,6 +11991,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Caldwell_551574",
         "Player": "J. Caldwell",
         "Team": "Essendon",
         "Games": "3",
@@ -11440,6 +12012,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Ginnivan_674529",
         "Player": "J. Ginnivan",
         "Team": "Collingwood",
         "Games": "5",
@@ -11460,6 +12033,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "O'Riordan_852129",
         "Player": "C. O'Riordan",
         "Team": "Sydney Swans",
         "Games": "6",
@@ -11480,6 +12054,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Parks_646320",
         "Player": "L. Parks",
         "Team": "Carlton",
         "Games": "6",
@@ -11500,6 +12075,7 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Sharman_914961",
         "Player": "C. Sharman",
         "Team": "St Kilda",
         "Games": "5",
@@ -11520,6 +12096,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Giro_790315",
         "Player": "S. Giro",
         "Team": "Fremantle",
         "Games": "4",
@@ -11540,6 +12117,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Sweet_696460",
         "Player": "J. Sweet",
         "Team": "Western Bulldogs",
         "Games": "5",
@@ -11560,6 +12138,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Cockatoo_976766",
         "Player": "N. Cockatoo",
         "Team": "Brisbane Lions",
         "Games": "7",
@@ -11580,6 +12159,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Cook_272577",
         "Player": "B. Cook",
         "Team": "Adelaide",
         "Games": "3",
@@ -11600,6 +12180,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "McLean_801671",
         "Player": "T. McLean",
         "Team": "Western Bulldogs",
         "Games": "3",
@@ -11620,6 +12201,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Peatling_348917",
         "Player": "J. Peatling",
         "Team": "GWS Giants",
         "Games": "4",
@@ -11640,6 +12222,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Witts_368755",
         "Player": "J. Witts",
         "Team": "Gold Coast",
         "Games": "3",
@@ -11660,6 +12243,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Geary_830111",
         "Player": "J. Geary",
         "Team": "St Kilda",
         "Games": "3",
@@ -11680,6 +12264,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Hannebery_278696",
         "Player": "D. Hannebery",
         "Team": "St Kilda",
         "Games": "2",
@@ -11700,6 +12285,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Sinclair_891421",
         "Player": "C. Sinclair",
         "Team": "Sydney Swans",
         "Games": "4",
@@ -11720,6 +12306,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Stein_222945",
         "Player": "J. Stein",
         "Team": "GWS Giants",
         "Games": "6",
@@ -11740,6 +12327,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Weideman_478469",
         "Player": "S. Weideman",
         "Team": "Melbourne",
         "Games": "5",
@@ -11760,6 +12348,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Jetta_407141",
         "Player": "N. Jetta",
         "Team": "Melbourne",
         "Games": "5",
@@ -11780,6 +12369,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Brand_196214",
         "Player": "K. Brand",
         "Team": "Sydney Swans",
         "Games": "3",
@@ -11800,6 +12390,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Carlisle_630146",
         "Player": "J. Carlisle",
         "Team": "St Kilda",
         "Games": "4",
@@ -11820,6 +12411,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Ford_347931",
         "Player": "E. Ford",
         "Team": "Nth Melbourne",
         "Games": "5",
@@ -11840,6 +12432,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Hutchings_489980",
         "Player": "M. Hutchings",
         "Team": "West Coast",
         "Games": "4",
@@ -11860,6 +12453,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Berry_663247",
         "Player": "T. Berry",
         "Team": "Brisbane Lions",
         "Games": "11",
@@ -11880,6 +12474,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Constable_670292",
         "Player": "C. Constable",
         "Team": "Geelong",
         "Games": "3",
@@ -11900,6 +12495,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Grainger-Barras_289516",
         "Player": "D. Grainger-Barras",
         "Team": "Hawthorn",
         "Games": "5",
@@ -11920,6 +12516,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Vardy_374513",
         "Player": "N. Vardy",
         "Team": "West Coast",
         "Games": "9",
@@ -11940,6 +12537,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Clavarino_885014",
         "Player": "O. Clavarino",
         "Team": "St Kilda",
         "Games": "5",
@@ -11960,6 +12558,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Honey_793991",
         "Player": "J. Honey",
         "Team": "Carlton",
         "Games": "5",
@@ -11980,6 +12579,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "McKernan_762430",
         "Player": "S. McKernan",
         "Team": "St Kilda",
         "Games": "4",
@@ -12000,6 +12600,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Davis_187780",
         "Player": "B. Davis",
         "Team": "Adelaide",
         "Games": "4",
@@ -12020,6 +12621,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Hately_125614",
         "Player": "J. Hately",
         "Team": "Adelaide",
         "Games": "3",
@@ -12040,6 +12642,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Stone_225355",
         "Player": "C. Stone",
         "Team": "GWS Giants",
         "Games": "5",
@@ -12060,6 +12663,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Ugle-Hagan_936066",
         "Player": "J. Ugle-Hagan",
         "Team": "Western Bulldogs",
         "Games": "5",
@@ -12080,6 +12684,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Williams_731636",
         "Player": "B. Williams",
         "Team": "West Coast",
         "Games": "6",
@@ -12100,6 +12705,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Corr_235471",
         "Player": "A. Corr",
         "Team": "Nth Melbourne",
         "Games": "2",
@@ -12120,6 +12726,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Rantall_107287",
         "Player": "J. Rantall",
         "Team": "Collingwood",
         "Games": "5",
@@ -12140,6 +12747,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Strachan_641073",
         "Player": "K. Strachan",
         "Team": "Adelaide",
         "Games": "2",
@@ -12160,6 +12768,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Budarick_135371",
         "Player": "C. Budarick",
         "Team": "Gold Coast",
         "Games": "2",
@@ -12180,6 +12789,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "vandenBerg_952653",
         "Player": "A. vandenBerg",
         "Team": "Melbourne",
         "Games": "4",
@@ -12200,6 +12810,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Jeka_126683",
         "Player": "E. Jeka",
         "Team": "Hawthorn",
         "Games": "4",
@@ -12220,6 +12831,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Martyn_535544",
         "Player": "W. Martyn",
         "Team": "Richmond",
         "Games": "3",
@@ -12240,6 +12852,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Tyson_427051",
         "Player": "D. Tyson",
         "Team": "Nth Melbourne",
         "Games": "3",
@@ -12260,6 +12873,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Greenwood_684121",
         "Player": "L. Greenwood",
         "Team": "Collingwood",
         "Games": "2",
@@ -12280,6 +12894,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Jeffrey_241293",
         "Player": "J. Jeffrey",
         "Team": "Gold Coast",
         "Games": "4",
@@ -12300,6 +12915,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Western_836176",
         "Player": "J. Western",
         "Team": "Fremantle",
         "Games": "4",
@@ -12320,6 +12936,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Townsend_732734",
         "Player": "J. Townsend",
         "Team": "Gold Coast",
         "Games": "2",
@@ -12340,6 +12957,7 @@
         "50m Penalties": "2"
     },
     {
+        "ID": "Frawley_357889",
         "Player": "J. Frawley",
         "Team": "St Kilda",
         "Games": "2",
@@ -12360,6 +12978,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Lynch_396832",
         "Player": "M. Lynch",
         "Team": "Collingwood",
         "Games": "2",
@@ -12380,6 +12999,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Cahill_506850",
         "Player": "N. Cahill",
         "Team": "Essendon",
         "Games": "3",
@@ -12400,6 +13020,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Hayden_103675",
         "Player": "K. Hayden",
         "Team": "Nth Melbourne",
         "Games": "3",
@@ -12420,6 +13041,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Smith_549829",
         "Player": "J. Smith",
         "Team": "Melbourne",
         "Games": "3",
@@ -12440,6 +13062,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Kemp_267687",
         "Player": "B. Kemp",
         "Team": "Carlton",
         "Games": "2",
@@ -12460,6 +13083,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Pedlar_369684",
         "Player": "L. Pedlar",
         "Team": "Adelaide",
         "Games": "2",
@@ -12480,6 +13104,7 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Rosas_363986",
         "Player": "M. Rosas",
         "Team": "Gold Coast",
         "Games": "4",
@@ -12500,6 +13125,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "O'Connor_208789",
         "Player": "R. O'Connor",
         "Team": "Adelaide",
         "Games": "3",
@@ -12520,6 +13146,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Davies_398501",
         "Player": "A. Davies",
         "Team": "Gold Coast",
         "Games": "1",
@@ -12540,6 +13167,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Baker_555796",
         "Player": "O. Baker",
         "Team": "Melbourne",
         "Games": "3",
@@ -12560,6 +13188,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Kreuger_363459",
         "Player": "N. Kreuger",
         "Team": "Geelong",
         "Games": "2",
@@ -12580,6 +13209,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Maginness_210369",
         "Player": "F. Maginness",
         "Team": "Hawthorn",
         "Games": "2",
@@ -12600,6 +13230,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Sharp_811510",
         "Player": "H. Sharp",
         "Team": "Brisbane Lions",
         "Games": "2",
@@ -12620,6 +13251,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Shipley_133024",
         "Player": "N. Shipley",
         "Team": "GWS Giants",
         "Games": "4",
@@ -12640,6 +13272,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Bryan_211461",
         "Player": "N. Bryan",
         "Team": "Essendon",
         "Games": "1",
@@ -12660,6 +13293,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Downie_228772",
         "Player": "C. Downie",
         "Team": "Hawthorn",
         "Games": "2",
@@ -12680,6 +13314,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Gollant_657800",
         "Player": "L. Gollant",
         "Team": "Adelaide",
         "Games": "1",
@@ -12700,6 +13335,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Kelly_394427",
         "Player": "W. Kelly",
         "Team": "Collingwood",
         "Games": "2",
@@ -12720,6 +13356,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Khamis_792428",
         "Player": "B. Khamis",
         "Team": "Western Bulldogs",
         "Games": "1",
@@ -12740,6 +13377,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Rockliff_615461",
         "Player": "T. Rockliff",
         "Team": "Port Adelaide",
         "Games": "2",
@@ -12760,6 +13398,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Brown_903316",
         "Player": "M. Brown",
         "Team": "Melbourne",
         "Games": "1",
@@ -12780,6 +13419,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Butler_279209",
         "Player": "L. Butler",
         "Team": "Western Bulldogs",
         "Games": "1",
@@ -12800,6 +13440,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Hamling_941899",
         "Player": "J. Hamling",
         "Team": "Fremantle",
         "Games": "1",
@@ -12820,6 +13461,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Reid_468272",
         "Player": "Z. Reid",
         "Team": "Essendon",
         "Games": "1",
@@ -12840,6 +13482,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Eggmolesse-Smith_665966",
         "Player": "D. Eggmolesse-Smith",
         "Team": "Richmond",
         "Games": "1",
@@ -12860,6 +13503,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "McDonald_703123",
         "Player": "O. McDonald",
         "Team": "Carlton",
         "Games": "3",
@@ -12880,6 +13524,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Rioli_721784",
         "Player": "M. Rioli",
         "Team": "Richmond",
         "Games": "2",
@@ -12900,6 +13545,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Tohill_953739",
         "Player": "A. Tohill",
         "Team": "Collingwood",
         "Games": "1",
@@ -12920,6 +13566,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "West_460753",
         "Player": "R. West",
         "Team": "Western Bulldogs",
         "Games": "4",
@@ -12940,6 +13587,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "De_702345",
         "Player": "S. De Koning",
         "Team": "Geelong",
         "Games": "1",
@@ -12960,6 +13608,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Durdin_852645",
         "Player": "C. Durdin",
         "Team": "Carlton",
         "Games": "2",
@@ -12980,6 +13629,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Evans_149679",
         "Player": "F. Evans",
         "Team": "Geelong",
         "Games": "2",
@@ -13000,6 +13650,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Jenkins_955230",
         "Player": "J. Jenkins",
         "Team": "Geelong",
         "Games": "1",
@@ -13020,6 +13671,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Clarke_715539",
         "Player": "R. Clarke",
         "Team": "Sydney Swans",
         "Games": "3",
@@ -13040,6 +13692,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Gunston_753971",
         "Player": "J. Gunston",
         "Team": "Hawthorn",
         "Games": "1",
@@ -13060,6 +13713,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Hinge_176027",
         "Player": "M. Hinge",
         "Team": "Adelaide",
         "Games": "1",
@@ -13080,6 +13734,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Spicer_762517",
         "Player": "P. Spicer",
         "Team": "Nth Melbourne",
         "Games": "1",
@@ -13100,6 +13755,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Williams_920231",
         "Player": "D. Williams",
         "Team": "Port Adelaide",
         "Games": "1",
@@ -13120,6 +13776,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Brown_823608",
         "Player": "C. Brown",
         "Team": "GWS Giants",
         "Games": "2",
@@ -13140,6 +13797,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Comben_922517",
         "Player": "C. Comben",
         "Team": "Nth Melbourne",
         "Games": "1",
@@ -13160,6 +13818,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Miller_953080",
         "Player": "B. Miller",
         "Team": "Richmond",
         "Games": "1",
@@ -13180,6 +13839,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Morris_847870",
         "Player": "J. Morris",
         "Team": "Hawthorn",
         "Games": "5",
@@ -13200,6 +13860,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Taylor_620778",
         "Player": "L. Taylor",
         "Team": "Sydney Swans",
         "Games": "2",
@@ -13220,6 +13881,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Ambrose_394686",
         "Player": "P. Ambrose",
         "Team": "Essendon",
         "Games": "1",
@@ -13240,6 +13902,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Ronke_384094",
         "Player": "B. Ronke",
         "Team": "Sydney Swans",
         "Games": "2",
@@ -13260,6 +13923,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Sturt_321709",
         "Player": "S. Sturt",
         "Team": "Fremantle",
         "Games": "1",
@@ -13280,6 +13944,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Winder_446814",
         "Player": "I. Winder",
         "Team": "West Coast",
         "Games": "1",
@@ -13300,6 +13965,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Ainsworth_548349",
         "Player": "B. Ainsworth",
         "Team": "West Coast",
         "Games": "2",
@@ -13320,6 +13986,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Ballenden_112170",
         "Player": "C. Ballenden",
         "Team": "Brisbane Lions",
         "Games": "1",
@@ -13340,6 +14007,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Chandler_687634",
         "Player": "K. Chandler",
         "Team": "Melbourne",
         "Games": "5",
@@ -13360,6 +14028,7 @@
         "50m Penalties": "1"
     },
     {
+        "ID": "Jong_738481",
         "Player": "L. Jong",
         "Team": "Western Bulldogs",
         "Games": "1",
@@ -13380,6 +14049,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Worrell_561783",
         "Player": "J. Worrell",
         "Team": "Adelaide",
         "Games": "1",
@@ -13400,6 +14070,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Cavarra_632266",
         "Player": "B. Cavarra",
         "Team": "Western Bulldogs",
         "Games": "1",
@@ -13420,6 +14091,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "McEntee_336415",
         "Player": "J. McEntee",
         "Team": "Port Adelaide",
         "Games": "1",
@@ -13440,6 +14112,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Ling_908327",
         "Player": "M. Ling",
         "Team": "Sydney Swans",
         "Games": "1",
@@ -13460,6 +14133,7 @@
         "50m Penalties": "0"
     },
     {
+        "ID": "Ryan_259389",
         "Player": "S. Ryan",
         "Team": "Richmond",
         "Games": "1",

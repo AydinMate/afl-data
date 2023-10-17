@@ -5,6 +5,8 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.action_chains import ActionChains
 import json
 import csv
+import re
+import random
 
 driver = webdriver.Chrome()
 driver.get("https://www.foxsports.com.au/afl/stats/players?sortBy=disposals")
@@ -21,7 +23,7 @@ no_button = message_buttons[1]
 no_button.click()
 
 pages = 34
-data = []  # Initialize data list for each page
+data = []
 
 for page in range(1, pages + 1):
     next_button = driver.find_element(By.CLASS_NAME, "fiso-lab-pagination__button--next")
@@ -48,6 +50,15 @@ for page in range(1, pages + 1):
     for player_element in player_elements:
         player_data_list = {}
         player_name = player_element.find_element(By.CLASS_NAME, "fiso-lab-table__row-heading-primary-data").text
+
+        parts = player_name.split()
+
+        if len(parts) > 1:
+            last_name = parts[1]
+        else:
+            last_name = "Player"
+
+        player_data_list["ID"] = f"{last_name}_{random.randint(100000, 999999)}"
         player_data_list["Player"] = player_name
         player_team_element = player_element.find_element(By.CLASS_NAME, "fiso-lab-table__row-heading-secondary-data")
         player_team = player_team_element.get_attribute("title")
@@ -56,6 +67,10 @@ for page in range(1, pages + 1):
 
         for i, player_data in enumerate(all_player_data):
             player_data_list[titles[i + 2]] = player_data.text
+
+            # Remove commas from data values
+            if isinstance(player_data_list[titles[i + 2]], str):
+                player_data_list[titles[i + 2]] = player_data_list[titles[i + 2]].replace(',', '')
 
         data.append(player_data_list)
 
